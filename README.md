@@ -41,26 +41,32 @@ Several graphs were generated to visualize patterns over time and other variable
 
 ✅ Monthly Production Trends
 - A line chart displaying how total sales varied across months.
+![Monthly Sales Trend](monthlysales.png)
 
 - Helps identify peak production periods and seasonality.
 
 ✅ Monthly Production vs Defects
 - A dual-axis chart comparing production volume and defect rates.
+![Production vs Defects](production_defects.png)
 
 - Useful for quality control and improvement strategies.
 
 ✅ Daily Production by Shift
+
 A bar chart comparing the number of units produced each day across different shifts.
+
 
 Supports shift optimization and staffing decisions.
 
 ✅ Overtime Impact Analysis
 - Scatter plots showing correlation between overtime hours and unit output.
+![Overtime Impact](overtime_impact.png)
 
 - Used to evaluate whether overtime leads to proportional productivity gains.
 
 ✅ Experience vs Productivity Correlation
 - A regression plot analyzing the relationship between worker experience and production levels.
+![Experience vs Productivity](experience_production.png)
 
 - Insightful for training and talent management strategies.
 
