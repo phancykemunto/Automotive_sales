@@ -51,10 +51,10 @@ Several graphs were generated to visualize patterns over time and other variable
 
 - Useful for quality control and improvement strategies.
 
-✅ Daily Production by Shift
+✅ Average Production by Shift
 
 A bar chart comparing the number of units produced each day across different shifts.
-
+![Production by Shift](shift.png)
 
 Supports shift optimization and staffing decisions.
 
