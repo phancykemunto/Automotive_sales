@@ -1,15 +1,19 @@
 # 📈 Automotive Manufacturing Data Analysis
-📌 Project Overview
+📌 About the Project
 
-This project analyzes manufacturing data to uncover insights on:
+This project focuses on exploring and analyzing automotive manufacturing data to uncover valuable insights such as trends, optimized productivity, and understand quality control patterns. Using data analysis techniques, the study investigates how various factors like production shift, model type, and worker experience affect unit output and defect rates. The project involves extensive feature engineering, including calculating total sales, extracting temporal features (month and day), and visualizing production and sales performance over time.
 
-✅ Production Efficiency (units produced, defect rates)
+Key analytical areas include:
 
-✅ Workforce Performance (shift comparisons, overtime impact)
+- Trend analysis of monthly production and sales.
 
-✅ Sales Trends (monthly revenue, model-wise sales)
+- Grouping and filtering to understand performance across models and shifts.
 
-The project showcases how to derive insights using feature engineering, grouping, filtering, and visual analytics. Below is a detailed breakdown of the analysis.
+- Correlation studies, such as experience vs productivity.
+
+- Visual exploration using plots and charts to reveal patterns in production defects, overtime impact, and unit efficiency.
+
+This project showcases how data can help in data-driven decision-making and continuous process improvement in the automotive industry.
 
 🔧 Feature Engineering
 
