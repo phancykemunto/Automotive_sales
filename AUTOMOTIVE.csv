@@ -1,0 +1,1001 @@
+employee_id,plant,model,department,shift,units_produced,defects_found,hours_worked,experience_years,is_overtime,date,price,quantity
+10000,Zwickau,ID.4,Logistics,Night,21,1,8.6,4.8,0,7/29/2023,35000,9
+10001,Dresden,ID.4,Quality Control,Morning,21,1,8,3.3,0,3/13/2023,35000,1
+10002,Emden,ID.4,Paint Shop,Night,20,0,9.6,3.1,0,8/12/2023,35000,9
+10003,Dresden,ID.4,Assembly,Morning,21,1,9.8,2.3,0,1/27/2023,35000,7
+10004,Dresden,Arteon,R&D,Morning,23,0,9.2,4.4,0,5/8/2023,40000,1
+10005,Hanover,Arteon,R&D,Evening,21,0,6.7,4.9,0,4/16/2023,40000,1
+10006,Emden,Passat,Assembly,Evening,14,1,6.8,5.3,0,6/14/2023,28000,5
+10007,Emden,Golf,Assembly,Evening,12,0,9.7,0.4,0,8/3/2023,22000,8
+10008,Emden,ID.4,Paint Shop,Evening,23,0,5.2,5,0,3/12/2023,35000,9
+10009,Dresden,Passat,Quality Control,Night,13,1,7.8,15.3,0,7/23/2023,28000,6
+10010,Zwickau,Golf,R&D,Night,22,2,8.7,3.9,0,6/2/2023,22000,8
+10011,Emden,Tiguan,Paint Shop,Night,18,0,5.4,6.3,1,3/8/2023,30000,6
+10012,Dresden,Arteon,Quality Control,Morning,19,0,8.4,4.1,0,3/31/2023,40000,6
+10013,Hanover,Golf,Paint Shop,Night,21,0,9.4,9.6,0,9/17/2023,22000,4
+10014,Zwickau,Tiguan,R&D,Night,16,2,5.8,13.3,0,12/28/2023,30000,5
+10015,Hanover,Golf,Assembly,Night,15,1,10.5,1,0,8/16/2023,22000,2
+10016,Zwickau,Arteon,Assembly,Evening,19,0,6.5,2.9,0,3/20/2023,40000,3
+10017,Dresden,Arteon,Quality Control,Night,22,0,8.9,2.5,1,4/6/2023,40000,3
+10018,Wolfsburg,Passat,Logistics,Morning,18,0,7.9,2.6,0,12/15/2023,28000,5
+10019,Zwickau,ID.4,Quality Control,Evening,20,1,8.1,0.7,0,11/26/2023,35000,5
+10020,Hanover,Golf,Logistics,Morning,16,1,6.1,8.4,0,9/3/2023,22000,6
+10021,Dresden,Golf,Paint Shop,Night,22,1,9.9,0.2,0,9/29/2023,22000,5
+10022,Zwickau,Tiguan,Paint Shop,Evening,16,3,8.5,3.8,0,6/6/2023,30000,6
+10023,Wolfsburg,Arteon,R&D,Morning,20,0,10.4,5.4,0,4/26/2023,40000,8
+10024,Wolfsburg,Golf,Logistics,Night,18,0,6.1,1.2,0,1/18/2023,22000,2
+10025,Emden,Arteon,R&D,Morning,20,0,7.7,11.8,0,6/21/2023,40000,4
+10026,Emden,Golf,Assembly,Morning,21,0,8.3,9.1,0,1/16/2023,22000,6
+10027,Hanover,Passat,Logistics,Morning,23,0,8.1,3.2,0,8/28/2023,28000,5
+10028,Zwickau,ID.4,Quality Control,Night,22,0,9,2.6,0,2/25/2023,35000,1
+10029,Zwickau,Golf,Assembly,Night,27,1,7.7,1.3,0,3/20/2023,22000,9
+10030,Emden,Arteon,Assembly,Morning,19,1,11.2,6.5,0,4/13/2023,40000,3
+10031,Zwickau,Passat,Quality Control,Evening,21,0,8.1,0.7,0,10/11/2023,28000,2
+10032,Zwickau,Golf,Assembly,Evening,18,0,3.7,5.7,0,7/12/2023,22000,9
+10033,Wolfsburg,Tiguan,Logistics,Night,26,0,8.1,9.2,0,1/5/2023,30000,7
+10034,Emden,ID.4,R&D,Night,20,1,9.9,1.3,0,4/16/2023,35000,5
+10035,Dresden,Golf,Assembly,Night,24,1,6.6,10.1,0,10/5/2023,22000,6
+10036,Emden,Passat,Logistics,Night,20,0,6.5,0.2,1,4/10/2023,28000,4
+10037,Dresden,Tiguan,Paint Shop,Night,24,0,6.7,12.2,0,8/26/2023,30000,1
+10038,Wolfsburg,Passat,Logistics,Evening,16,0,6.4,0.6,0,9/26/2023,28000,4
+10039,Hanover,Passat,R&D,Night,18,0,7.3,5.2,0,11/17/2023,28000,9
+10040,Zwickau,Tiguan,Logistics,Morning,27,1,9.4,1.4,0,3/27/2023,30000,1
+10041,Wolfsburg,Passat,Quality Control,Morning,19,1,10.3,9.1,0,11/16/2023,28000,3
+10042,Zwickau,Tiguan,R&D,Evening,22,1,4.4,3.6,1,2/1/2023,30000,5
+10043,Hanover,Golf,Paint Shop,Morning,20,0,7.4,0.7,0,12/2/2023,22000,7
+10044,Hanover,Tiguan,Quality Control,Evening,19,1,8.5,4.2,1,2/20/2023,30000,9
+10045,Wolfsburg,Tiguan,Logistics,Evening,24,2,8.3,2.6,0,3/20/2023,30000,6
+10046,Hanover,ID.4,R&D,Morning,16,0,10.8,5.4,0,7/5/2023,35000,3
+10047,Dresden,Tiguan,Paint Shop,Night,19,0,5,10.7,0,6/23/2023,30000,7
+10048,Hanover,Tiguan,Quality Control,Morning,17,2,4.1,2.6,0,4/16/2023,30000,4
+10049,Zwickau,Golf,Paint Shop,Morning,28,0,11.1,1.7,0,3/4/2023,22000,3
+10050,Zwickau,ID.4,Logistics,Evening,20,1,9.1,0.1,1,3/17/2023,35000,7
+10051,Zwickau,Arteon,Paint Shop,Morning,29,2,7.1,4.3,0,11/12/2023,40000,7
+10052,Zwickau,Golf,Assembly,Evening,19,1,8.3,2.6,1,11/17/2023,22000,4
+10053,Dresden,Golf,Quality Control,Night,19,1,8.4,2.3,0,3/22/2023,22000,7
+10054,Emden,Arteon,Paint Shop,Night,16,1,7.1,1,1,12/27/2023,40000,2
+10055,Wolfsburg,Tiguan,Logistics,Night,25,1,8.2,2.8,0,5/8/2023,30000,1
+10056,Zwickau,Passat,Logistics,Morning,22,0,8.5,20.8,0,7/2/2023,28000,2
+10057,Hanover,ID.4,Paint Shop,Evening,17,0,11,1.8,0,8/31/2023,35000,4
+10058,Zwickau,Passat,Logistics,Night,18,0,9.4,4.6,0,7/4/2023,28000,8
+10059,Hanover,Arteon,R&D,Evening,18,1,10.6,7.5,0,8/8/2023,40000,3
+10060,Hanover,Golf,R&D,Evening,19,0,6,6.9,0,3/12/2023,22000,6
+10061,Zwickau,Golf,R&D,Night,17,0,7.5,2,0,12/8/2023,22000,6
+10062,Dresden,ID.4,Assembly,Night,19,0,8.4,4.7,1,6/3/2023,35000,9
+10063,Hanover,Golf,Paint Shop,Evening,18,1,5.1,10.2,0,9/2/2023,22000,9
+10064,Hanover,Golf,Assembly,Night,19,2,9.8,0.1,0,5/20/2023,22000,4
+10065,Zwickau,ID.4,Logistics,Evening,26,2,9,2.9,0,3/12/2023,35000,9
+10066,Hanover,ID.4,Assembly,Evening,24,0,7.4,1.3,1,2/15/2023,35000,6
+10067,Hanover,Arteon,Logistics,Night,20,1,7.7,2.5,0,2/16/2023,40000,2
+10068,Zwickau,Golf,Logistics,Morning,19,1,9.9,2.7,1,3/20/2023,22000,6
+10069,Zwickau,Golf,Quality Control,Night,26,0,6.8,6.9,1,5/29/2023,22000,2
+10070,Wolfsburg,Arteon,R&D,Morning,22,0,9.9,0.5,1,5/10/2023,40000,8
+10071,Dresden,Tiguan,Logistics,Evening,14,0,7.6,3.6,1,5/7/2023,30000,4
+10072,Dresden,Tiguan,Quality Control,Evening,17,2,9.1,4.2,0,12/31/2023,30000,5
+10073,Hanover,Tiguan,R&D,Morning,16,0,8.1,3.4,0,4/29/2023,30000,8
+10074,Dresden,Arteon,Logistics,Evening,18,0,11.3,6.6,0,12/23/2023,40000,8
+10075,Hanover,Golf,Logistics,Morning,19,1,6.7,2.4,0,9/19/2023,22000,6
+10076,Wolfsburg,Arteon,Assembly,Morning,26,0,7.1,14.5,0,9/1/2023,40000,4
+10077,Zwickau,Arteon,Assembly,Evening,19,0,5.7,3.3,0,4/13/2023,40000,1
+10078,Zwickau,Tiguan,R&D,Morning,16,1,6.4,4.2,0,2/6/2023,30000,7
+10079,Zwickau,Passat,Logistics,Night,21,0,9.1,8.7,0,5/22/2023,28000,8
+10080,Dresden,Golf,Paint Shop,Night,23,1,10.4,1.6,0,2/6/2023,22000,9
+10081,Wolfsburg,Tiguan,Assembly,Evening,28,0,9.2,0.4,1,1/8/2023,30000,2
+10082,Dresden,Passat,R&D,Evening,14,1,8,6.2,0,8/19/2023,28000,1
+10083,Dresden,Passat,Logistics,Morning,22,1,6.7,3.3,0,11/29/2023,28000,4
+10084,Wolfsburg,ID.4,Logistics,Morning,21,0,9.3,11.3,0,10/23/2023,35000,5
+10085,Wolfsburg,Golf,Paint Shop,Morning,22,0,6.6,20.3,0,4/17/2023,22000,1
+10086,Wolfsburg,Passat,R&D,Morning,26,1,6,2.5,1,12/14/2023,28000,5
+10087,Wolfsburg,Tiguan,Logistics,Night,23,1,7.5,2.7,0,1/18/2023,30000,6
+10088,Zwickau,ID.4,Assembly,Night,24,1,4.9,2.6,0,11/9/2023,35000,3
+10089,Emden,Golf,Paint Shop,Evening,26,1,5.9,2,0,3/24/2023,22000,7
+10090,Emden,Arteon,R&D,Morning,14,0,10.8,7.6,0,10/15/2023,40000,6
+10091,Wolfsburg,Tiguan,Paint Shop,Morning,20,0,5.6,7.1,0,7/13/2023,30000,4
+10092,Emden,Passat,Assembly,Evening,25,2,6.2,3.3,0,8/3/2023,28000,3
+10093,Emden,Passat,R&D,Morning,20,0,8.1,0.2,0,10/8/2023,28000,5
+10094,Wolfsburg,Tiguan,Paint Shop,Morning,19,0,8.2,1.9,1,8/8/2023,30000,3
+10095,Emden,Passat,Quality Control,Morning,16,0,7.6,1.7,0,10/16/2023,28000,9
+10096,Dresden,ID.4,Assembly,Morning,20,0,5,8.3,0,12/10/2023,35000,9
+10097,Hanover,Golf,Assembly,Morning,23,0,9.3,0.5,0,7/13/2023,22000,6
+10098,Hanover,ID.4,Assembly,Evening,19,3,7.3,8.2,0,6/7/2023,35000,6
+10099,Wolfsburg,Passat,Quality Control,Morning,29,0,9.8,5.5,0,4/14/2023,28000,4
+10100,Zwickau,Arteon,Quality Control,Evening,19,0,7,6.6,0,2/3/2023,40000,4
+10101,Wolfsburg,Golf,Logistics,Morning,23,3,9.5,2.8,1,4/12/2023,22000,2
+10102,Zwickau,Golf,Paint Shop,Night,23,2,9.9,5.7,0,5/7/2023,22000,4
+10103,Hanover,Tiguan,Logistics,Night,18,0,7.3,4.7,1,8/2/2023,30000,8
+10104,Wolfsburg,Tiguan,Paint Shop,Night,18,0,9.3,7.3,0,11/21/2023,30000,2
+10105,Dresden,Arteon,Quality Control,Night,18,1,6,3,1,10/23/2023,40000,9
+10106,Emden,Golf,Quality Control,Evening,25,1,8.4,3.2,0,6/28/2023,22000,1
+10107,Zwickau,Arteon,Logistics,Evening,22,1,9.8,5.2,0,3/21/2023,40000,2
+10108,Emden,Tiguan,R&D,Morning,13,1,8.8,0.6,0,5/21/2023,30000,2
+10109,Emden,Tiguan,Logistics,Night,21,1,11.6,2.9,1,1/31/2023,30000,6
+10110,Wolfsburg,Golf,Paint Shop,Evening,21,0,8.9,17.9,1,3/4/2023,22000,7
+10111,Emden,ID.4,Logistics,Morning,18,1,7.5,0.2,0,2/17/2023,35000,3
+10112,Dresden,Passat,Assembly,Morning,24,0,12.3,1.9,0,3/28/2023,28000,9
+10113,Emden,Tiguan,Paint Shop,Evening,16,1,10.5,1.9,0,10/31/2023,30000,5
+10114,Wolfsburg,Tiguan,Paint Shop,Night,18,1,5.6,5,0,3/2/2023,30000,5
+10115,Dresden,ID.4,R&D,Morning,18,0,6.8,0.6,0,11/30/2023,35000,4
+10116,Hanover,ID.4,Quality Control,Night,15,0,6.4,5,1,10/1/2023,35000,9
+10117,Emden,Arteon,Paint Shop,Night,21,0,9,0.5,0,10/11/2023,40000,8
+10118,Wolfsburg,Arteon,Quality Control,Night,20,0,8.9,0.5,0,3/21/2023,40000,4
+10119,Hanover,Passat,Logistics,Morning,17,1,8.8,6.5,0,6/29/2023,28000,4
+10120,Hanover,Passat,Assembly,Night,23,0,5.6,2,0,9/29/2023,28000,2
+10121,Zwickau,Golf,R&D,Morning,21,1,7,19,0,3/18/2023,22000,9
+10122,Dresden,Arteon,Quality Control,Night,21,0,7.8,0.2,0,8/9/2023,40000,3
+10123,Emden,Tiguan,Paint Shop,Morning,26,1,5.3,2.9,0,10/9/2023,30000,4
+10124,Wolfsburg,Arteon,Quality Control,Night,23,1,6.7,0.6,0,1/28/2023,40000,7
+10125,Zwickau,Tiguan,Paint Shop,Evening,21,1,10,2.2,0,12/27/2023,30000,8
+10126,Dresden,ID.4,Quality Control,Night,19,0,5.7,31.7,0,3/18/2023,35000,8
+10127,Zwickau,Arteon,Paint Shop,Night,31,2,10.2,11,0,6/13/2023,40000,4
+10128,Dresden,ID.4,Logistics,Morning,21,0,9.6,0.2,0,1/9/2023,35000,7
+10129,Dresden,Passat,Paint Shop,Morning,22,0,7.6,4.1,1,6/24/2023,28000,1
+10130,Emden,Passat,Paint Shop,Night,16,0,7,5.2,0,11/3/2023,28000,6
+10131,Dresden,Golf,Assembly,Evening,25,0,9.2,1.2,0,3/17/2023,22000,6
+10132,Zwickau,Arteon,Paint Shop,Evening,17,2,6.8,0.8,1,9/2/2023,40000,6
+10133,Dresden,ID.4,Assembly,Morning,25,0,6.9,11.7,0,5/2/2023,35000,2
+10134,Emden,Tiguan,R&D,Evening,24,1,8,17.3,0,7/4/2023,30000,8
+10135,Emden,Passat,Assembly,Night,23,1,4.8,24.1,1,2/1/2023,28000,5
+10136,Zwickau,Passat,Logistics,Morning,16,0,5.8,7.8,1,9/7/2023,28000,5
+10137,Hanover,Tiguan,Assembly,Night,17,1,7.5,5.4,0,2/26/2023,30000,2
+10138,Hanover,ID.4,R&D,Morning,26,0,8.7,2.1,0,11/6/2023,35000,4
+10139,Dresden,ID.4,Logistics,Morning,22,0,6.8,0.9,0,5/24/2023,35000,9
+10140,Wolfsburg,Arteon,Quality Control,Morning,24,0,7.7,0.4,0,11/14/2023,40000,9
+10141,Dresden,Arteon,Quality Control,Morning,16,2,5.6,5.9,0,3/25/2023,40000,6
+10142,Zwickau,Golf,Assembly,Evening,23,2,9.4,7.7,0,2/25/2023,22000,9
+10143,Zwickau,Passat,Assembly,Night,22,0,8.3,8.8,1,10/6/2023,28000,4
+10144,Zwickau,Arteon,R&D,Night,23,0,8.5,12.3,0,9/30/2023,40000,1
+10145,Zwickau,ID.4,R&D,Night,28,1,8.7,10.6,0,6/15/2023,35000,2
+10146,Zwickau,Tiguan,Paint Shop,Morning,22,0,8.1,41.3,0,6/7/2023,30000,1
+10147,Emden,ID.4,R&D,Evening,19,1,7.3,1.4,0,9/6/2023,35000,8
+10148,Hanover,Passat,Paint Shop,Night,17,0,9.7,7.2,0,7/5/2023,28000,9
+10149,Zwickau,ID.4,Logistics,Evening,25,0,8.2,4.4,0,3/19/2023,35000,6
+10150,Wolfsburg,Golf,Assembly,Morning,17,1,7.8,1.5,0,1/22/2023,22000,2
+10151,Wolfsburg,Passat,Logistics,Night,23,0,8,20.1,0,4/18/2023,28000,6
+10152,Wolfsburg,Tiguan,R&D,Evening,14,1,8,11.4,1,9/30/2023,30000,9
+10153,Wolfsburg,Golf,Logistics,Morning,19,2,7.7,0.7,0,9/9/2023,22000,3
+10154,Emden,Passat,Logistics,Evening,18,0,8.7,0.1,1,1/15/2023,28000,9
+10155,Wolfsburg,Tiguan,Logistics,Night,22,0,6.6,5.8,0,10/31/2023,30000,2
+10156,Zwickau,Golf,R&D,Night,22,2,6.7,4.6,0,6/9/2023,22000,5
+10157,Dresden,Golf,Logistics,Morning,21,1,8.8,13.7,0,7/24/2023,22000,2
+10158,Wolfsburg,Passat,Paint Shop,Morning,26,0,7.8,1.3,0,4/23/2023,28000,7
+10159,Emden,Arteon,R&D,Morning,18,1,9.5,0.4,0,6/17/2023,40000,9
+10160,Emden,Golf,Logistics,Evening,22,0,8.6,1.5,0,12/19/2023,22000,7
+10161,Wolfsburg,Golf,R&D,Evening,19,0,7.2,0.1,0,9/10/2023,22000,5
+10162,Dresden,Tiguan,Quality Control,Evening,26,1,8.9,0.2,0,7/5/2023,30000,4
+10163,Wolfsburg,ID.4,Paint Shop,Morning,29,0,9.8,12.3,0,12/13/2023,35000,4
+10164,Emden,Passat,Logistics,Night,18,2,8.7,2.2,0,8/15/2023,28000,8
+10165,Hanover,Passat,Quality Control,Night,22,0,9,2.6,0,1/16/2023,28000,1
+10166,Zwickau,Arteon,Quality Control,Evening,12,1,7.7,0.1,0,6/5/2023,40000,5
+10167,Emden,Arteon,R&D,Evening,23,0,9.5,1.6,0,12/20/2023,40000,2
+10168,Wolfsburg,Passat,Quality Control,Night,19,0,7.1,8.2,0,4/21/2023,28000,9
+10169,Zwickau,Arteon,Paint Shop,Night,19,1,8.5,4.8,0,1/1/2023,40000,7
+10170,Wolfsburg,Tiguan,Paint Shop,Evening,19,0,11.9,7,0,2/10/2023,30000,8
+10171,Wolfsburg,Passat,Assembly,Evening,26,0,8.8,3,0,2/17/2023,28000,6
+10172,Hanover,Arteon,Paint Shop,Night,25,0,7.4,1.9,0,4/18/2023,40000,9
+10173,Zwickau,Passat,Quality Control,Morning,13,0,7.4,3.3,0,6/10/2023,28000,6
+10174,Zwickau,ID.4,Paint Shop,Evening,23,1,7.9,2,0,6/10/2023,35000,7
+10175,Hanover,Golf,R&D,Night,22,0,9.3,9.1,1,12/25/2023,22000,7
+10176,Emden,Passat,Assembly,Night,23,0,8.2,1.8,0,5/8/2023,28000,9
+10177,Wolfsburg,Golf,Quality Control,Night,22,0,7,5.4,0,7/29/2023,22000,8
+10178,Dresden,Arteon,Assembly,Night,14,0,7,0.7,0,5/31/2023,40000,1
+10179,Wolfsburg,Golf,Quality Control,Morning,16,0,8.2,5.8,0,9/12/2023,22000,4
+10180,Wolfsburg,Passat,R&D,Night,21,0,8.1,12.2,0,8/6/2023,28000,7
+10181,Emden,ID.4,Assembly,Evening,29,0,8.7,4.7,0,1/30/2023,35000,8
+10182,Wolfsburg,Arteon,Logistics,Morning,14,1,9.4,4.1,0,2/14/2023,40000,7
+10183,Hanover,Passat,Quality Control,Night,19,1,12.1,16.2,0,3/21/2023,28000,3
+10184,Hanover,Arteon,Logistics,Morning,17,0,5.8,4.9,1,2/8/2023,40000,4
+10185,Zwickau,Tiguan,Assembly,Evening,24,0,9,1.5,0,8/28/2023,30000,7
+10186,Dresden,Golf,Logistics,Night,15,0,8.1,1.7,0,2/14/2023,22000,8
+10187,Wolfsburg,Tiguan,Logistics,Evening,12,0,5.2,6.1,0,3/19/2023,30000,7
+10188,Wolfsburg,Passat,Assembly,Night,15,0,9.9,6.6,0,12/3/2023,28000,6
+10189,Emden,ID.4,R&D,Night,16,0,8.6,1.8,0,12/15/2023,35000,9
+10190,Hanover,Arteon,Logistics,Night,16,0,9.2,2.1,0,10/15/2023,40000,9
+10191,Dresden,Golf,Logistics,Night,25,0,5.5,23.6,0,10/7/2023,22000,7
+10192,Zwickau,Arteon,R&D,Night,18,0,7.7,0.5,1,4/26/2023,40000,8
+10193,Hanover,Passat,Logistics,Morning,35,0,6.4,2.6,0,9/26/2023,28000,6
+10194,Zwickau,Arteon,Logistics,Night,17,0,11.2,0.3,0,12/1/2023,40000,1
+10195,Emden,Golf,Logistics,Night,25,0,9.7,8.6,0,11/8/2023,22000,1
+10196,Emden,Passat,Paint Shop,Morning,22,0,7,0.5,0,2/22/2023,28000,6
+10197,Wolfsburg,Arteon,R&D,Morning,20,0,5.7,5.6,0,3/9/2023,40000,2
+10198,Dresden,ID.4,Logistics,Morning,17,0,8.3,0.3,0,7/1/2023,35000,8
+10199,Zwickau,Passat,R&D,Morning,26,0,9.6,5.6,1,2/3/2023,28000,1
+10200,Hanover,Passat,Quality Control,Morning,23,0,5.4,9.3,0,10/11/2023,28000,2
+10201,Emden,ID.4,Quality Control,Morning,18,0,6.6,2.5,0,11/2/2023,35000,8
+10202,Wolfsburg,Tiguan,Logistics,Night,18,0,6.3,3.7,1,9/6/2023,30000,6
+10203,Wolfsburg,Golf,R&D,Night,16,0,9.3,2.6,0,4/21/2023,22000,2
+10204,Zwickau,Tiguan,R&D,Evening,14,1,7.4,1.8,0,4/4/2023,30000,2
+10205,Emden,Arteon,R&D,Night,20,0,7.5,8.1,0,6/28/2023,40000,7
+10206,Dresden,ID.4,Paint Shop,Night,21,0,8.3,1.6,0,2/16/2023,35000,5
+10207,Emden,Tiguan,Quality Control,Morning,22,1,6.7,6.4,0,10/9/2023,30000,5
+10208,Zwickau,Passat,R&D,Morning,24,0,5.8,1.2,0,12/6/2023,28000,8
+10209,Zwickau,Arteon,R&D,Night,23,0,10.1,1.4,0,12/28/2023,40000,7
+10210,Emden,Arteon,Paint Shop,Evening,20,1,10.2,2.1,0,4/2/2023,40000,9
+10211,Zwickau,Tiguan,Paint Shop,Morning,26,1,8.3,4.4,0,7/31/2023,30000,4
+10212,Emden,Tiguan,R&D,Night,20,0,8.4,3,0,3/16/2023,30000,4
+10213,Hanover,ID.4,Assembly,Night,20,0,9.9,6.8,1,7/21/2023,35000,2
+10214,Emden,Golf,R&D,Evening,19,0,8.2,1.2,0,10/24/2023,22000,3
+10215,Emden,Tiguan,R&D,Evening,28,0,7.4,0.1,1,11/4/2023,30000,1
+10216,Zwickau,Tiguan,Paint Shop,Morning,17,0,8.1,7.5,0,7/30/2023,30000,1
+10217,Zwickau,Passat,Paint Shop,Evening,25,0,10.1,8.6,0,12/4/2023,28000,7
+10218,Wolfsburg,Arteon,R&D,Night,25,0,8.1,0.3,0,5/14/2023,40000,5
+10219,Wolfsburg,Golf,R&D,Night,19,2,7,4.7,0,11/26/2023,22000,3
+10220,Hanover,Passat,R&D,Evening,21,2,8.2,2.4,0,3/7/2023,28000,7
+10221,Wolfsburg,ID.4,Paint Shop,Evening,21,0,9,7.9,0,10/7/2023,35000,2
+10222,Emden,ID.4,R&D,Evening,24,1,8.8,10.4,0,1/28/2023,35000,3
+10223,Zwickau,Tiguan,R&D,Evening,18,0,8.8,9.5,0,4/27/2023,30000,1
+10224,Wolfsburg,Tiguan,Logistics,Morning,21,1,6.8,7.5,0,11/13/2023,30000,8
+10225,Wolfsburg,ID.4,Assembly,Evening,16,0,9.2,1.6,0,11/21/2023,35000,2
+10226,Hanover,Tiguan,Quality Control,Morning,20,0,8,8.4,0,4/24/2023,30000,7
+10227,Hanover,Golf,Assembly,Night,24,0,6.9,3.8,0,3/16/2023,22000,9
+10228,Emden,Tiguan,Logistics,Evening,21,0,9.1,0.3,1,7/21/2023,30000,6
+10229,Zwickau,Arteon,Quality Control,Morning,18,0,7.3,3.1,0,2/28/2023,40000,2
+10230,Hanover,Tiguan,R&D,Evening,17,1,5.6,14.3,0,1/15/2023,30000,2
+10231,Wolfsburg,Passat,Logistics,Night,16,1,6.5,10.9,0,8/19/2023,28000,9
+10232,Zwickau,Golf,R&D,Night,29,0,7.7,0.5,0,4/15/2023,22000,8
+10233,Zwickau,Passat,Paint Shop,Night,28,0,8.9,6.8,0,6/14/2023,28000,9
+10234,Wolfsburg,Passat,Logistics,Evening,21,0,6.7,8.2,0,7/18/2023,28000,4
+10235,Hanover,Arteon,Paint Shop,Evening,24,1,7.6,1.6,0,12/20/2023,40000,4
+10236,Wolfsburg,Golf,Logistics,Morning,21,2,6.2,3.2,0,2/4/2023,22000,2
+10237,Zwickau,Golf,Logistics,Night,20,2,9.5,6.2,1,6/11/2023,22000,1
+10238,Dresden,Golf,Paint Shop,Evening,29,1,10.6,2.9,1,9/2/2023,22000,4
+10239,Dresden,Golf,Quality Control,Night,23,0,10.4,0.6,0,10/14/2023,22000,8
+10240,Emden,Golf,Assembly,Night,22,0,9.4,6.1,0,1/19/2023,22000,2
+10241,Wolfsburg,Arteon,R&D,Morning,16,0,9.3,12.1,1,10/7/2023,40000,8
+10242,Wolfsburg,Tiguan,Logistics,Morning,20,1,4.9,5.3,1,12/6/2023,30000,1
+10243,Emden,Passat,R&D,Morning,14,0,8.3,7.4,0,12/14/2023,28000,1
+10244,Emden,Golf,Paint Shop,Morning,17,0,7.3,2.2,0,7/1/2023,22000,4
+10245,Emden,Tiguan,R&D,Night,24,1,9.3,1,1,5/27/2023,30000,7
+10246,Zwickau,Tiguan,Paint Shop,Morning,16,0,4.2,5.1,0,6/25/2023,30000,9
+10247,Wolfsburg,Passat,R&D,Morning,19,0,8.3,2,0,6/12/2023,28000,5
+10248,Zwickau,Arteon,Assembly,Morning,27,1,7.7,9.8,0,6/24/2023,40000,2
+10249,Emden,ID.4,Assembly,Morning,28,0,9.7,0.7,1,2/16/2023,35000,7
+10250,Wolfsburg,ID.4,Assembly,Night,21,0,10.3,2.8,1,9/13/2023,35000,2
+10251,Zwickau,Tiguan,Assembly,Morning,11,1,6.6,2.5,0,6/23/2023,30000,9
+10252,Zwickau,Passat,Assembly,Night,22,1,6.7,13.9,0,4/13/2023,28000,9
+10253,Emden,ID.4,Assembly,Evening,21,2,8.3,0.8,0,5/1/2023,35000,3
+10254,Wolfsburg,Tiguan,Paint Shop,Night,18,0,10.6,0,1,12/16/2023,30000,8
+10255,Emden,Arteon,Logistics,Night,23,0,8.1,1.4,0,5/25/2023,40000,4
+10256,Wolfsburg,ID.4,R&D,Morning,13,1,6.1,8.6,1,2/11/2023,35000,3
+10257,Dresden,Tiguan,Assembly,Evening,19,0,7.1,1.2,0,1/29/2023,30000,1
+10258,Hanover,Tiguan,Paint Shop,Evening,18,0,8.3,1.4,1,9/30/2023,30000,5
+10259,Hanover,Golf,Paint Shop,Evening,21,1,8.4,0.7,0,1/14/2023,22000,4
+10260,Hanover,Arteon,Paint Shop,Evening,15,0,6.9,6.3,0,11/2/2023,40000,1
+10261,Emden,Golf,Logistics,Night,22,0,7.1,0.4,0,11/9/2023,22000,8
+10262,Dresden,Passat,R&D,Evening,20,0,6.5,2,0,7/8/2023,28000,8
+10263,Wolfsburg,Golf,Logistics,Night,27,0,9.7,1.7,1,12/26/2023,22000,8
+10264,Zwickau,Golf,Quality Control,Night,19,0,6.7,4.1,0,10/22/2023,22000,3
+10265,Wolfsburg,ID.4,Paint Shop,Night,21,0,7.3,6.6,0,7/2/2023,35000,6
+10266,Zwickau,Tiguan,Quality Control,Evening,19,1,7.3,3.8,0,12/18/2023,30000,7
+10267,Wolfsburg,Arteon,Assembly,Morning,17,1,5.6,13.4,1,2/5/2023,40000,9
+10268,Dresden,Golf,Assembly,Morning,17,0,6.7,15.1,0,2/6/2023,22000,5
+10269,Zwickau,Arteon,Logistics,Evening,29,0,9.8,2.2,0,1/14/2023,40000,9
+10270,Emden,Golf,R&D,Morning,15,0,6.2,7.5,0,5/3/2023,22000,6
+10271,Wolfsburg,Passat,Quality Control,Morning,16,0,6.6,6.7,0,3/24/2023,28000,4
+10272,Wolfsburg,Golf,R&D,Night,17,1,6,11.2,0,6/8/2023,22000,1
+10273,Zwickau,ID.4,Logistics,Night,19,1,7.9,3,0,11/25/2023,35000,1
+10274,Emden,Tiguan,Assembly,Evening,15,1,10.8,3.8,0,4/12/2023,30000,5
+10275,Emden,Passat,R&D,Evening,22,0,7.8,2.7,1,12/3/2023,28000,3
+10276,Dresden,Golf,R&D,Morning,15,0,8.1,9.5,1,3/24/2023,22000,5
+10277,Emden,Arteon,Assembly,Night,14,0,6.8,1.3,0,2/13/2023,40000,5
+10278,Emden,Passat,Quality Control,Evening,24,0,7.9,1.4,0,3/9/2023,28000,1
+10279,Emden,Passat,Assembly,Evening,26,1,9.8,2.3,0,2/17/2023,28000,8
+10280,Hanover,Golf,R&D,Evening,18,2,8.2,1.3,0,2/26/2023,22000,5
+10281,Dresden,Passat,Quality Control,Evening,17,0,11.2,4.1,0,3/16/2023,28000,5
+10282,Wolfsburg,Arteon,Quality Control,Evening,13,1,9.9,0.7,1,1/22/2023,40000,9
+10283,Zwickau,Passat,Assembly,Evening,21,0,7.9,1.9,0,5/12/2023,28000,8
+10284,Wolfsburg,Arteon,R&D,Morning,25,0,7.8,12.2,0,10/29/2023,40000,1
+10285,Dresden,Golf,Logistics,Night,20,0,10.4,2.6,1,9/24/2023,22000,3
+10286,Zwickau,Tiguan,R&D,Night,14,0,8.2,6.9,1,10/14/2023,30000,7
+10287,Dresden,Passat,Paint Shop,Evening,22,0,10.1,0.6,0,4/30/2023,28000,1
+10288,Emden,Tiguan,Logistics,Night,18,1,11,1.4,0,9/3/2023,30000,1
+10289,Zwickau,Arteon,Quality Control,Night,9,1,7.7,8.2,0,2/25/2023,40000,5
+10290,Emden,Passat,Logistics,Night,20,0,8.5,7.2,0,2/7/2023,28000,9
+10291,Wolfsburg,ID.4,Quality Control,Evening,19,0,9.5,2.4,0,9/2/2023,35000,6
+10292,Wolfsburg,Tiguan,Quality Control,Evening,29,1,9.2,15.4,0,1/21/2023,30000,2
+10293,Zwickau,Passat,Logistics,Night,16,1,9.1,12.1,0,4/20/2023,28000,9
+10294,Zwickau,Tiguan,Quality Control,Night,13,1,6,16.4,1,4/4/2023,30000,6
+10295,Dresden,Passat,Quality Control,Evening,18,0,6.7,2.8,0,5/16/2023,28000,5
+10296,Dresden,Golf,Paint Shop,Morning,21,1,7.3,1.1,0,8/19/2023,22000,5
+10297,Emden,Tiguan,R&D,Night,23,0,9.8,4.9,0,1/8/2023,30000,3
+10298,Zwickau,ID.4,R&D,Morning,26,1,6.1,5.8,0,11/24/2023,35000,6
+10299,Wolfsburg,ID.4,Paint Shop,Night,23,0,10.3,0.7,0,10/17/2023,35000,4
+10300,Dresden,Arteon,Logistics,Morning,16,1,9.2,7.7,1,9/8/2023,40000,2
+10301,Dresden,Passat,Assembly,Morning,24,0,9.7,0.1,0,12/27/2023,28000,3
+10302,Wolfsburg,Tiguan,Assembly,Morning,24,0,6.6,3.3,0,3/28/2023,30000,9
+10303,Dresden,Arteon,Assembly,Evening,14,0,8.1,2,0,7/23/2023,40000,9
+10304,Emden,Tiguan,Paint Shop,Morning,21,0,8.4,6.7,0,8/7/2023,30000,6
+10305,Zwickau,Passat,Paint Shop,Morning,23,1,8.4,1.9,0,8/29/2023,28000,9
+10306,Wolfsburg,ID.4,Quality Control,Morning,15,1,8.4,8.8,0,11/16/2023,35000,4
+10307,Zwickau,Golf,Assembly,Night,21,2,7.6,4.5,0,9/15/2023,22000,5
+10308,Dresden,ID.4,Logistics,Morning,25,0,8.2,7.9,0,4/19/2023,35000,6
+10309,Dresden,Arteon,Logistics,Night,27,1,9.6,22.7,0,9/13/2023,40000,9
+10310,Wolfsburg,Golf,Assembly,Morning,15,1,6.3,5.7,0,10/9/2023,22000,5
+10311,Emden,Arteon,Assembly,Morning,21,0,10.3,21,1,8/8/2023,40000,8
+10312,Hanover,Passat,Assembly,Evening,24,0,9.5,0.1,1,3/24/2023,28000,1
+10313,Wolfsburg,Golf,Paint Shop,Night,16,1,6.6,2.1,1,4/17/2023,22000,5
+10314,Hanover,Arteon,Paint Shop,Morning,22,2,8.6,0.6,0,3/10/2023,40000,1
+10315,Hanover,Passat,Paint Shop,Night,19,1,9.4,1.5,0,4/7/2023,28000,6
+10316,Emden,ID.4,R&D,Night,29,0,6.1,9.1,0,7/31/2023,35000,7
+10317,Hanover,Passat,Logistics,Evening,16,0,8.1,0.2,1,10/13/2023,28000,5
+10318,Hanover,Tiguan,Logistics,Evening,22,0,7.9,3.7,0,8/25/2023,30000,1
+10319,Emden,Passat,Quality Control,Evening,28,1,7,4.2,0,1/8/2023,28000,6
+10320,Hanover,Passat,Paint Shop,Evening,16,1,8.1,4.1,0,10/21/2023,28000,5
+10321,Hanover,Tiguan,R&D,Evening,20,0,7.1,3.2,0,7/8/2023,30000,6
+10322,Hanover,Arteon,R&D,Evening,22,1,10.1,7.8,0,3/22/2023,40000,7
+10323,Wolfsburg,Arteon,Logistics,Evening,10,0,7.1,0.7,0,4/18/2023,40000,7
+10324,Wolfsburg,Passat,Paint Shop,Evening,19,2,9.2,1.9,0,11/17/2023,28000,2
+10325,Wolfsburg,Tiguan,Quality Control,Morning,32,0,5.5,4.8,0,3/8/2023,30000,3
+10326,Emden,Tiguan,Paint Shop,Night,23,0,7.8,5.9,0,6/23/2023,30000,6
+10327,Dresden,ID.4,Assembly,Evening,20,0,8,2.6,0,12/12/2023,35000,3
+10328,Hanover,Arteon,Paint Shop,Evening,16,0,7.7,10.4,1,12/17/2023,40000,2
+10329,Hanover,Golf,Assembly,Night,21,0,7.4,2.7,0,11/24/2023,22000,4
+10330,Emden,Arteon,Assembly,Morning,27,0,7,2.6,0,2/12/2023,40000,5
+10331,Hanover,Arteon,Quality Control,Night,16,1,9.1,0.2,0,7/6/2023,40000,9
+10332,Wolfsburg,ID.4,Logistics,Night,23,1,9.5,4,0,10/29/2023,35000,3
+10333,Dresden,Golf,Paint Shop,Evening,17,0,7.9,6.2,0,7/19/2023,22000,3
+10334,Zwickau,ID.4,Assembly,Night,25,0,6.4,0.6,0,2/8/2023,35000,6
+10335,Hanover,Golf,Paint Shop,Night,19,0,10.7,1.8,0,8/8/2023,22000,5
+10336,Wolfsburg,Passat,Logistics,Evening,17,1,6.7,7.6,0,11/3/2023,28000,6
+10337,Zwickau,Golf,Logistics,Evening,13,0,5.8,2.3,1,1/4/2023,22000,7
+10338,Dresden,ID.4,R&D,Evening,19,1,5,1.4,0,5/1/2023,35000,3
+10339,Zwickau,Arteon,Logistics,Evening,27,1,8.1,5.6,0,12/2/2023,40000,5
+10340,Wolfsburg,Golf,Quality Control,Night,16,0,7.7,1.1,0,3/18/2023,22000,8
+10341,Zwickau,Golf,Assembly,Night,24,0,9.5,11.3,1,6/28/2023,22000,4
+10342,Emden,Tiguan,R&D,Morning,19,0,8.9,0.6,0,5/13/2023,30000,2
+10343,Zwickau,Arteon,Quality Control,Morning,21,0,8.4,6.1,0,11/7/2023,40000,4
+10344,Hanover,Passat,Paint Shop,Night,27,1,7.6,3.5,0,8/17/2023,28000,2
+10345,Hanover,ID.4,Assembly,Morning,26,1,9.7,10.2,0,10/3/2023,35000,3
+10346,Emden,Passat,Logistics,Night,25,0,10.8,0.7,0,6/1/2023,28000,4
+10347,Wolfsburg,Arteon,Assembly,Morning,23,1,9.5,5.7,0,6/13/2023,40000,4
+10348,Hanover,Golf,Paint Shop,Evening,16,1,7.3,4.2,0,10/17/2023,22000,9
+10349,Dresden,Golf,R&D,Morning,19,1,9.2,3.3,0,4/19/2023,22000,6
+10350,Hanover,Arteon,R&D,Evening,18,0,7.4,3.4,1,5/6/2023,40000,9
+10351,Hanover,Golf,R&D,Evening,19,0,6.3,6.4,0,8/28/2023,22000,4
+10352,Wolfsburg,Golf,Logistics,Evening,19,0,6.7,13.9,0,11/6/2023,22000,9
+10353,Zwickau,Golf,Quality Control,Evening,17,1,7.5,0.5,0,12/11/2023,22000,9
+10354,Hanover,ID.4,Quality Control,Morning,19,0,8.2,0.1,0,5/26/2023,35000,6
+10355,Emden,ID.4,Assembly,Night,27,0,11.1,8.2,0,9/9/2023,35000,5
+10356,Zwickau,Tiguan,Logistics,Evening,14,2,6.7,0.6,0,7/2/2023,30000,3
+10357,Dresden,Passat,R&D,Morning,19,1,10,21.6,0,11/5/2023,28000,5
+10358,Wolfsburg,Arteon,R&D,Evening,23,1,7.5,4.8,0,11/2/2023,40000,3
+10359,Dresden,Arteon,Paint Shop,Morning,18,0,5,5.3,0,3/13/2023,40000,5
+10360,Zwickau,Arteon,Paint Shop,Morning,10,0,7.2,1.1,0,8/7/2023,40000,5
+10361,Zwickau,Tiguan,R&D,Morning,18,2,9.8,1.4,0,7/26/2023,30000,2
+10362,Zwickau,ID.4,R&D,Night,16,0,8.5,5.4,0,6/22/2023,35000,9
+10363,Dresden,Tiguan,Logistics,Morning,30,0,8.6,12,0,5/21/2023,30000,7
+10364,Zwickau,Arteon,Quality Control,Morning,17,0,10,20.2,0,9/29/2023,40000,6
+10365,Dresden,Passat,Paint Shop,Night,17,0,6.4,1.1,0,8/2/2023,28000,5
+10366,Zwickau,Golf,Quality Control,Night,28,0,6.4,0.7,1,9/26/2023,22000,4
+10367,Emden,ID.4,Logistics,Morning,19,1,4.6,0.3,0,1/20/2023,35000,8
+10368,Zwickau,ID.4,R&D,Night,17,2,9.3,10.1,0,3/7/2023,35000,2
+10369,Dresden,Tiguan,Quality Control,Evening,23,2,8.8,1.7,0,10/30/2023,30000,8
+10370,Hanover,ID.4,R&D,Evening,21,0,9.1,0,0,5/27/2023,35000,1
+10371,Zwickau,Arteon,R&D,Night,11,0,6.2,1.3,0,6/14/2023,40000,1
+10372,Hanover,Arteon,Assembly,Night,21,0,5.6,2.1,0,11/6/2023,40000,3
+10373,Emden,Tiguan,Quality Control,Morning,14,1,6,23.5,0,1/6/2023,30000,5
+10374,Wolfsburg,Arteon,Quality Control,Night,15,0,6.6,3.7,1,1/14/2023,40000,6
+10375,Emden,Passat,R&D,Morning,19,1,10.3,1.1,0,5/12/2023,28000,4
+10376,Zwickau,Tiguan,Logistics,Evening,16,1,9.5,2,0,12/8/2023,30000,7
+10377,Hanover,Passat,Assembly,Night,17,0,7.3,2,1,8/31/2023,28000,7
+10378,Hanover,Golf,R&D,Morning,13,0,8.4,0.1,1,8/19/2023,22000,2
+10379,Dresden,Passat,Paint Shop,Morning,17,2,7,0.7,0,8/16/2023,28000,2
+10380,Hanover,Golf,Paint Shop,Evening,18,2,8.5,5.9,0,6/11/2023,22000,2
+10381,Dresden,Golf,Assembly,Night,23,0,6.3,0.6,1,10/10/2023,22000,2
+10382,Wolfsburg,Passat,Logistics,Evening,23,0,9.1,1.3,0,9/20/2023,28000,9
+10383,Zwickau,Tiguan,R&D,Morning,16,2,6.7,2.2,0,5/11/2023,30000,5
+10384,Dresden,Arteon,Quality Control,Morning,17,0,9.2,7.1,1,8/13/2023,40000,8
+10385,Wolfsburg,Arteon,Assembly,Night,21,0,7.4,4.4,0,9/15/2023,40000,5
+10386,Hanover,Golf,Logistics,Morning,18,0,6.8,5.8,0,8/22/2023,22000,5
+10387,Hanover,Golf,Quality Control,Night,14,0,10.4,4.2,0,12/2/2023,22000,1
+10388,Wolfsburg,Tiguan,Paint Shop,Evening,25,0,8.3,5.8,0,11/12/2023,30000,6
+10389,Hanover,ID.4,Paint Shop,Night,18,0,7.5,0,1,1/24/2023,35000,4
+10390,Wolfsburg,Passat,Quality Control,Night,18,0,9.1,13.4,0,9/28/2023,28000,3
+10391,Dresden,Golf,Assembly,Morning,17,0,6,0.6,1,4/5/2023,22000,6
+10392,Dresden,Arteon,Paint Shop,Morning,13,3,9.7,2.6,0,5/22/2023,40000,2
+10393,Wolfsburg,Tiguan,R&D,Night,14,1,7.8,7.4,0,7/1/2023,30000,8
+10394,Dresden,Passat,Quality Control,Morning,13,1,8.9,2.9,0,7/25/2023,28000,1
+10395,Dresden,Tiguan,Quality Control,Morning,22,1,5.7,14.7,0,3/22/2023,30000,9
+10396,Dresden,Passat,Paint Shop,Morning,12,0,7.4,3.2,1,10/1/2023,28000,8
+10397,Emden,Passat,Assembly,Night,19,0,8,10.4,0,10/3/2023,28000,1
+10398,Zwickau,Golf,R&D,Morning,14,2,9.5,8.3,0,7/27/2023,22000,9
+10399,Hanover,Tiguan,Assembly,Night,18,0,9,19.8,0,10/23/2023,30000,2
+10400,Emden,Tiguan,Logistics,Morning,20,0,7.4,13.1,0,2/8/2023,30000,3
+10401,Dresden,Arteon,Logistics,Evening,19,1,8.5,11.4,0,10/15/2023,40000,2
+10402,Wolfsburg,Arteon,Paint Shop,Morning,22,0,9.9,6.6,0,5/4/2023,40000,8
+10403,Dresden,Golf,Paint Shop,Morning,20,0,7.7,2.3,0,12/30/2023,22000,2
+10404,Zwickau,Golf,Paint Shop,Night,17,3,7.5,0.6,0,10/10/2023,22000,2
+10405,Dresden,ID.4,Logistics,Night,13,1,5.2,5.8,0,6/29/2023,35000,1
+10406,Wolfsburg,Arteon,Assembly,Morning,20,0,7.6,19.2,0,4/7/2023,40000,7
+10407,Zwickau,Passat,Assembly,Evening,20,2,5.4,6.5,0,7/10/2023,28000,2
+10408,Dresden,Tiguan,Paint Shop,Morning,15,1,7.8,13.2,0,3/15/2023,30000,5
+10409,Zwickau,Golf,R&D,Morning,21,1,9.5,8.2,0,9/30/2023,22000,5
+10410,Hanover,Tiguan,Assembly,Evening,11,0,4.8,0.9,0,2/18/2023,30000,3
+10411,Hanover,Tiguan,Logistics,Night,14,0,9.9,1.4,0,12/3/2023,30000,3
+10412,Dresden,ID.4,Quality Control,Morning,24,1,7.5,2.1,1,7/29/2023,35000,3
+10413,Zwickau,Arteon,Quality Control,Night,14,1,8,0.9,0,4/26/2023,40000,6
+10414,Wolfsburg,Golf,Quality Control,Night,19,1,7.2,4.4,0,1/23/2023,22000,4
+10415,Dresden,Tiguan,R&D,Evening,18,0,5.4,18.5,0,4/8/2023,30000,3
+10416,Hanover,Golf,Paint Shop,Evening,22,0,6.8,7.2,0,11/24/2023,22000,2
+10417,Hanover,Passat,Logistics,Night,22,1,11.1,2.8,0,11/9/2023,28000,3
+10418,Dresden,ID.4,R&D,Morning,14,0,6.4,0,0,7/9/2023,35000,4
+10419,Zwickau,Passat,Logistics,Night,15,0,5.6,1.9,0,7/1/2023,28000,6
+10420,Hanover,Golf,Logistics,Morning,19,0,8.2,3.7,0,5/28/2023,22000,4
+10421,Zwickau,Golf,Paint Shop,Morning,20,0,7.9,2,0,12/8/2023,22000,8
+10422,Hanover,Arteon,Quality Control,Evening,22,1,7.5,0.6,0,1/23/2023,40000,3
+10423,Hanover,Tiguan,Paint Shop,Morning,20,1,8,2.9,0,4/15/2023,30000,3
+10424,Emden,Tiguan,R&D,Morning,24,0,9,1.5,0,6/12/2023,30000,3
+10425,Hanover,Passat,R&D,Night,24,0,7.1,12,0,3/8/2023,28000,8
+10426,Wolfsburg,ID.4,R&D,Evening,15,1,8.3,0.5,0,10/17/2023,35000,4
+10427,Dresden,Tiguan,Paint Shop,Morning,18,0,9.5,0.3,0,10/16/2023,30000,1
+10428,Dresden,Arteon,Logistics,Morning,25,0,6.5,0,0,2/15/2023,40000,2
+10429,Zwickau,Passat,Logistics,Evening,15,2,4.5,2,0,3/22/2023,28000,2
+10430,Hanover,Passat,Assembly,Night,21,0,9,5.4,1,5/27/2023,28000,3
+10431,Wolfsburg,Arteon,R&D,Evening,25,2,11.8,6.6,0,8/10/2023,40000,6
+10432,Zwickau,ID.4,Logistics,Evening,21,0,8,3,0,12/9/2023,35000,8
+10433,Emden,Arteon,Assembly,Morning,24,0,8.3,5.8,0,1/15/2023,40000,1
+10434,Zwickau,ID.4,Logistics,Morning,28,0,7.6,2.2,0,5/1/2023,35000,9
+10435,Zwickau,Arteon,R&D,Night,14,2,10.4,5.5,0,3/19/2023,40000,1
+10436,Hanover,Arteon,Quality Control,Morning,14,0,7.9,0.2,0,11/18/2023,40000,2
+10437,Emden,Golf,R&D,Morning,19,0,7.7,2.5,0,10/22/2023,22000,3
+10438,Zwickau,Passat,Paint Shop,Evening,22,2,9.4,7.8,1,8/29/2023,28000,7
+10439,Wolfsburg,Arteon,Logistics,Morning,17,0,7.3,8.1,0,1/18/2023,40000,9
+10440,Wolfsburg,Arteon,Logistics,Night,21,0,6.1,6.3,0,9/13/2023,40000,3
+10441,Dresden,Tiguan,Paint Shop,Evening,13,0,9.3,1.1,1,10/4/2023,30000,8
+10442,Emden,Passat,Paint Shop,Night,27,1,7.1,1.4,0,1/27/2023,28000,9
+10443,Emden,Tiguan,Quality Control,Evening,25,0,6.5,27.7,1,1/2/2023,30000,7
+10444,Dresden,Passat,Logistics,Morning,16,0,11.2,0.5,0,12/19/2023,28000,4
+10445,Zwickau,Tiguan,Logistics,Evening,20,1,7.7,1,0,10/22/2023,30000,4
+10446,Emden,Arteon,Quality Control,Evening,13,0,8.7,0.7,1,11/8/2023,40000,4
+10447,Wolfsburg,Arteon,Assembly,Morning,26,2,8,2,0,12/29/2023,40000,6
+10448,Wolfsburg,Golf,Quality Control,Morning,17,1,6.7,1.2,0,8/27/2023,22000,4
+10449,Hanover,Tiguan,R&D,Night,17,1,9,3.4,0,1/13/2023,30000,5
+10450,Emden,ID.4,Logistics,Night,26,1,8.5,3.2,0,7/3/2023,35000,9
+10451,Zwickau,Golf,Paint Shop,Morning,23,1,7,11.6,0,7/13/2023,22000,7
+10452,Dresden,Tiguan,R&D,Morning,23,0,8.6,0.2,0,2/25/2023,30000,8
+10453,Dresden,Tiguan,Logistics,Morning,14,1,7.2,1.9,0,8/18/2023,30000,5
+10454,Zwickau,Golf,Quality Control,Evening,16,0,6.3,4.5,0,1/28/2023,22000,5
+10455,Hanover,Arteon,R&D,Evening,13,0,6.2,4.6,0,11/16/2023,40000,7
+10456,Dresden,Tiguan,Logistics,Evening,22,1,8.4,3.3,1,3/12/2023,30000,8
+10457,Emden,Arteon,Assembly,Morning,17,0,7.4,8.5,0,7/29/2023,40000,9
+10458,Hanover,Golf,Assembly,Night,24,1,10.3,0.3,0,7/3/2023,22000,2
+10459,Emden,Arteon,Paint Shop,Morning,16,0,7.9,8.5,0,12/22/2023,40000,3
+10460,Wolfsburg,Passat,Logistics,Evening,20,1,6.8,3.4,0,2/10/2023,28000,2
+10461,Hanover,ID.4,Assembly,Evening,17,0,8.2,0.7,0,9/17/2023,35000,7
+10462,Dresden,Tiguan,Quality Control,Morning,24,1,6.1,10.8,0,12/10/2023,30000,2
+10463,Hanover,ID.4,Logistics,Morning,20,1,7.9,5.2,1,3/25/2023,35000,2
+10464,Hanover,Arteon,Quality Control,Evening,10,0,8.5,0.9,1,2/15/2023,40000,2
+10465,Hanover,Tiguan,Quality Control,Evening,28,0,8.3,0.2,0,6/8/2023,30000,4
+10466,Hanover,Arteon,Assembly,Evening,17,0,10,0.8,0,12/10/2023,40000,1
+10467,Emden,Passat,Logistics,Morning,21,0,11.9,4.7,1,1/7/2023,28000,2
+10468,Wolfsburg,Golf,R&D,Evening,21,1,9,1,1,11/29/2023,22000,3
+10469,Zwickau,Tiguan,Assembly,Evening,27,2,9.8,1.3,0,5/16/2023,30000,7
+10470,Hanover,Passat,Assembly,Night,23,0,11.8,0.1,1,7/2/2023,28000,1
+10471,Dresden,Passat,Logistics,Morning,18,1,6.5,6.4,1,7/16/2023,28000,6
+10472,Hanover,Tiguan,Logistics,Night,20,1,8.2,8.3,1,6/21/2023,30000,3
+10473,Dresden,Arteon,Quality Control,Night,25,0,7.3,8,1,12/15/2023,40000,3
+10474,Emden,Passat,Logistics,Evening,28,1,9.3,0.7,0,10/3/2023,28000,4
+10475,Dresden,ID.4,Quality Control,Morning,17,1,8.4,11.7,0,3/19/2023,35000,4
+10476,Zwickau,Passat,Assembly,Evening,21,0,6.8,5.6,0,6/27/2023,28000,7
+10477,Wolfsburg,Arteon,Paint Shop,Morning,17,0,8,11.4,0,1/27/2023,40000,3
+10478,Dresden,Arteon,R&D,Night,18,0,9.6,3,0,4/30/2023,40000,8
+10479,Dresden,ID.4,Assembly,Morning,19,2,6,2.9,1,10/8/2023,35000,8
+10480,Wolfsburg,Passat,Logistics,Evening,15,1,6.8,7.7,0,11/4/2023,28000,7
+10481,Zwickau,Arteon,R&D,Evening,20,1,6.6,0.5,0,7/15/2023,40000,2
+10482,Hanover,Tiguan,Paint Shop,Evening,14,0,8.5,3.7,0,10/4/2023,30000,5
+10483,Dresden,Golf,Paint Shop,Morning,26,0,9.9,9.1,0,1/18/2023,22000,6
+10484,Wolfsburg,Golf,Quality Control,Night,43,0,5,8.9,0,10/22/2023,22000,4
+10485,Emden,Golf,R&D,Night,21,0,8.1,15.6,0,9/28/2023,22000,5
+10486,Wolfsburg,Passat,Quality Control,Morning,19,1,6.6,6,0,2/22/2023,28000,9
+10487,Emden,ID.4,Assembly,Evening,19,2,9.5,1.2,0,10/21/2023,35000,7
+10488,Zwickau,Arteon,R&D,Night,23,1,7.6,0.1,0,2/21/2023,40000,2
+10489,Hanover,Tiguan,Assembly,Evening,15,1,8.2,3.3,0,8/4/2023,30000,1
+10490,Wolfsburg,Tiguan,Quality Control,Morning,17,0,8,3.6,0,3/13/2023,30000,2
+10491,Dresden,Passat,R&D,Evening,17,0,9.7,1.4,0,1/28/2023,28000,3
+10492,Zwickau,Golf,Quality Control,Night,22,0,11.1,0.7,0,9/9/2023,22000,2
+10493,Wolfsburg,Passat,R&D,Night,22,1,6.3,4.4,0,2/4/2023,28000,3
+10494,Dresden,ID.4,Quality Control,Evening,16,1,6.6,7.2,0,7/20/2023,35000,9
+10495,Wolfsburg,ID.4,Paint Shop,Morning,18,0,8.5,24.9,0,9/6/2023,35000,4
+10496,Emden,Arteon,Quality Control,Evening,14,0,6.8,7.1,1,4/9/2023,40000,9
+10497,Wolfsburg,Arteon,Paint Shop,Morning,17,0,9.4,7.9,0,11/4/2023,40000,3
+10498,Wolfsburg,ID.4,Quality Control,Evening,22,0,9.6,4.8,0,5/20/2023,35000,1
+10499,Wolfsburg,ID.4,R&D,Night,14,0,7.2,21.3,0,3/24/2023,35000,5
+10500,Zwickau,ID.4,R&D,Morning,26,0,6.9,5.1,0,2/17/2023,35000,2
+10501,Wolfsburg,Passat,R&D,Morning,26,0,7.6,9.8,0,10/5/2023,28000,4
+10502,Dresden,ID.4,Logistics,Morning,21,1,8.2,14.6,1,9/5/2023,35000,2
+10503,Emden,Tiguan,Assembly,Night,17,0,8.5,13.3,0,6/26/2023,30000,2
+10504,Emden,Golf,R&D,Evening,20,0,4.6,2.4,0,2/21/2023,22000,3
+10505,Wolfsburg,ID.4,Paint Shop,Night,17,0,6.5,0.4,0,3/20/2023,35000,5
+10506,Zwickau,Golf,R&D,Morning,27,0,7.4,0.9,1,11/18/2023,22000,4
+10507,Zwickau,Passat,Logistics,Evening,17,0,6.8,0.3,0,3/5/2023,28000,2
+10508,Dresden,Golf,Paint Shop,Night,22,0,3.7,0.6,0,1/8/2023,22000,2
+10509,Wolfsburg,Passat,Logistics,Morning,19,0,5.2,1,0,8/2/2023,28000,6
+10510,Emden,Tiguan,Paint Shop,Morning,24,0,6,2.1,0,1/25/2023,30000,7
+10511,Zwickau,Passat,Quality Control,Night,22,1,7.8,3.9,1,9/13/2023,28000,6
+10512,Wolfsburg,Passat,Assembly,Night,26,0,7.3,6.2,0,8/31/2023,28000,7
+10513,Zwickau,Arteon,Assembly,Night,16,1,7.1,1.2,0,7/17/2023,40000,1
+10514,Zwickau,ID.4,Logistics,Morning,18,0,9.2,5.6,1,4/4/2023,35000,6
+10515,Emden,ID.4,Assembly,Night,14,0,9.2,6.1,1,7/26/2023,35000,3
+10516,Hanover,Tiguan,Logistics,Morning,19,0,8.2,4.1,0,1/15/2023,30000,1
+10517,Dresden,Tiguan,Logistics,Night,15,0,8.2,11.7,1,6/27/2023,30000,8
+10518,Dresden,ID.4,Logistics,Morning,16,2,6.7,0.6,0,3/16/2023,35000,4
+10519,Emden,Arteon,Assembly,Morning,20,1,6.9,1,0,4/14/2023,40000,8
+10520,Zwickau,ID.4,Logistics,Evening,19,1,5.4,2.8,1,10/21/2023,35000,4
+10521,Wolfsburg,Arteon,Assembly,Night,26,1,7.6,0.7,0,6/17/2023,40000,4
+10522,Zwickau,Tiguan,Logistics,Night,19,1,9.2,4.2,0,4/25/2023,30000,4
+10523,Emden,Golf,R&D,Morning,20,0,10,2.5,0,2/8/2023,22000,6
+10524,Dresden,Tiguan,Logistics,Morning,24,0,7.6,1.7,0,12/30/2023,30000,9
+10525,Zwickau,Tiguan,Paint Shop,Morning,25,2,8.7,0.9,0,9/30/2023,30000,5
+10526,Dresden,Passat,Logistics,Evening,18,1,3.7,2,0,5/15/2023,28000,8
+10527,Wolfsburg,Passat,Quality Control,Evening,23,0,7.4,4.7,0,8/20/2023,28000,8
+10528,Dresden,Passat,Logistics,Morning,21,1,7.3,4.3,0,2/8/2023,28000,4
+10529,Dresden,Passat,Paint Shop,Night,26,0,10.2,0.9,0,10/18/2023,28000,9
+10530,Hanover,Arteon,Paint Shop,Night,15,0,8.6,0.7,1,11/3/2023,40000,9
+10531,Hanover,ID.4,Assembly,Evening,21,0,8.7,0.1,0,2/16/2023,35000,5
+10532,Hanover,Golf,R&D,Evening,17,1,8.7,0.1,0,2/5/2023,22000,6
+10533,Dresden,Tiguan,Logistics,Morning,20,1,8.1,10.6,0,11/16/2023,30000,5
+10534,Emden,Arteon,Assembly,Night,18,0,10.3,0.2,0,4/5/2023,40000,3
+10535,Dresden,Golf,R&D,Morning,19,0,4.5,6.6,1,12/27/2023,22000,8
+10536,Emden,Arteon,Logistics,Evening,24,0,8.2,10.3,0,1/13/2023,40000,9
+10537,Emden,Arteon,Quality Control,Night,22,1,9.7,0.5,0,5/26/2023,40000,4
+10538,Hanover,Tiguan,Logistics,Night,11,0,5.2,2.9,0,3/6/2023,30000,9
+10539,Zwickau,ID.4,Paint Shop,Evening,23,0,9.3,16.4,0,8/16/2023,35000,9
+10540,Wolfsburg,Passat,Paint Shop,Morning,28,0,6.9,9,0,8/30/2023,28000,7
+10541,Hanover,ID.4,Quality Control,Morning,17,0,8.2,3.4,1,1/8/2023,35000,8
+10542,Hanover,Tiguan,Assembly,Night,15,0,6.8,7.2,0,10/31/2023,30000,3
+10543,Zwickau,Tiguan,R&D,Evening,18,1,9.4,9,0,12/7/2023,30000,5
+10544,Wolfsburg,Tiguan,Logistics,Night,19,0,7.6,2.1,0,2/12/2023,30000,3
+10545,Dresden,Golf,Paint Shop,Evening,21,1,9.3,11.1,0,9/1/2023,22000,7
+10546,Dresden,ID.4,Assembly,Morning,32,0,8.7,3.2,0,6/30/2023,35000,6
+10547,Hanover,ID.4,Quality Control,Evening,20,0,6.8,3.8,0,3/26/2023,35000,3
+10548,Wolfsburg,Arteon,Paint Shop,Morning,16,0,8.8,40.7,0,6/4/2023,40000,9
+10549,Hanover,Arteon,Quality Control,Evening,13,1,7,9.3,0,10/2/2023,40000,1
+10550,Emden,Arteon,Logistics,Night,24,2,8.1,2.2,0,1/23/2023,40000,3
+10551,Hanover,Tiguan,R&D,Morning,22,1,7.5,0.1,0,4/25/2023,30000,7
+10552,Hanover,ID.4,Paint Shop,Night,25,0,9.3,4.9,0,11/2/2023,35000,3
+10553,Dresden,Tiguan,Paint Shop,Night,23,0,8.8,6.1,0,10/26/2023,30000,3
+10554,Dresden,Golf,Logistics,Morning,22,1,8,5.3,1,4/9/2023,22000,2
+10555,Dresden,Arteon,Assembly,Morning,21,1,7,17.2,1,4/14/2023,40000,9
+10556,Emden,Tiguan,R&D,Night,17,0,6.1,9.9,0,2/20/2023,30000,4
+10557,Dresden,Tiguan,Paint Shop,Night,18,1,8.2,3,0,12/28/2023,30000,6
+10558,Wolfsburg,Golf,R&D,Night,12,0,7.1,0.3,0,4/22/2023,22000,2
+10559,Zwickau,Passat,Paint Shop,Night,22,0,5.2,3.2,0,9/1/2023,28000,9
+10560,Wolfsburg,ID.4,R&D,Morning,22,0,6,5.8,1,6/18/2023,35000,7
+10561,Wolfsburg,Passat,Quality Control,Morning,21,0,10.4,4.7,0,3/13/2023,28000,5
+10562,Dresden,Arteon,Paint Shop,Night,22,0,7,3.9,0,5/19/2023,40000,7
+10563,Zwickau,Tiguan,R&D,Evening,23,0,9.6,3.2,0,12/2/2023,30000,4
+10564,Zwickau,Golf,Assembly,Evening,19,0,7.5,1.7,0,8/19/2023,22000,7
+10565,Zwickau,Golf,Quality Control,Morning,19,0,9.9,1.6,0,8/27/2023,22000,2
+10566,Emden,ID.4,Quality Control,Night,17,0,9.8,3.5,1,9/10/2023,35000,7
+10567,Dresden,Passat,Assembly,Night,23,1,6.8,0.9,0,2/18/2023,28000,4
+10568,Zwickau,ID.4,R&D,Morning,29,0,5,2.1,0,10/30/2023,35000,4
+10569,Emden,Tiguan,Logistics,Evening,16,0,5.1,2,0,3/13/2023,30000,1
+10570,Hanover,ID.4,Assembly,Evening,15,0,6.8,4.4,1,9/20/2023,35000,3
+10571,Hanover,Golf,R&D,Evening,16,1,10.8,0.3,0,11/18/2023,22000,5
+10572,Emden,Golf,Assembly,Morning,25,0,7.4,8.9,0,8/10/2023,22000,5
+10573,Emden,Arteon,Assembly,Evening,20,0,8.2,4.1,0,3/18/2023,40000,2
+10574,Dresden,Arteon,Paint Shop,Morning,23,0,10,5.6,1,3/3/2023,40000,4
+10575,Dresden,Tiguan,R&D,Morning,23,1,8.2,6.1,1,6/6/2023,30000,1
+10576,Hanover,Passat,Logistics,Night,15,0,8.1,1.7,0,10/21/2023,28000,9
+10577,Zwickau,ID.4,Paint Shop,Evening,14,0,8.9,3.2,0,5/5/2023,35000,1
+10578,Hanover,Tiguan,Assembly,Morning,15,0,8.4,15.6,0,8/17/2023,30000,6
+10579,Zwickau,Arteon,Assembly,Evening,19,0,7.9,7.3,0,12/6/2023,40000,7
+10580,Zwickau,ID.4,Assembly,Evening,16,1,6.9,17.5,0,6/10/2023,35000,3
+10581,Dresden,Arteon,R&D,Night,17,1,8.1,6.9,0,1/29/2023,40000,1
+10582,Wolfsburg,ID.4,R&D,Evening,14,1,9.6,1,0,4/24/2023,35000,7
+10583,Wolfsburg,Passat,Paint Shop,Night,11,1,10.7,0.3,0,3/20/2023,28000,3
+10584,Emden,Tiguan,Logistics,Morning,23,0,8.4,4.3,0,1/23/2023,30000,6
+10585,Dresden,ID.4,Paint Shop,Evening,14,0,9.1,2.2,0,4/16/2023,35000,6
+10586,Zwickau,Golf,Quality Control,Morning,22,1,8.4,1.6,0,5/11/2023,22000,4
+10587,Wolfsburg,Golf,Assembly,Evening,20,0,7.9,8.2,0,12/23/2023,22000,6
+10588,Zwickau,ID.4,Assembly,Morning,21,1,8.8,2.3,0,6/22/2023,35000,4
+10589,Wolfsburg,ID.4,Assembly,Evening,22,0,9.8,1.9,0,9/21/2023,35000,8
+10590,Wolfsburg,ID.4,Paint Shop,Evening,21,0,6.7,9.5,1,12/8/2023,35000,9
+10591,Wolfsburg,Golf,Paint Shop,Evening,16,1,5.8,9.4,0,10/12/2023,22000,2
+10592,Dresden,Golf,Assembly,Evening,15,1,7.2,2.2,0,1/2/2023,22000,7
+10593,Hanover,ID.4,Paint Shop,Evening,24,1,8.3,8.9,0,8/21/2023,35000,9
+10594,Zwickau,Arteon,R&D,Evening,19,0,9.3,9.5,0,9/8/2023,40000,9
+10595,Dresden,Arteon,R&D,Evening,21,1,6.5,2.8,0,11/17/2023,40000,5
+10596,Dresden,Passat,Paint Shop,Evening,25,0,4.3,0.3,0,4/18/2023,28000,1
+10597,Dresden,Tiguan,Assembly,Evening,23,0,7.2,0,0,10/3/2023,30000,6
+10598,Dresden,Arteon,Paint Shop,Morning,23,2,7.7,3.7,0,6/29/2023,40000,8
+10599,Dresden,Golf,Paint Shop,Night,21,1,6.3,2.1,0,8/1/2023,22000,1
+10600,Emden,Arteon,Paint Shop,Evening,26,0,6.9,29.3,0,10/20/2023,40000,2
+10601,Zwickau,Passat,Quality Control,Night,17,1,9.3,7.4,0,3/13/2023,28000,1
+10602,Dresden,Passat,R&D,Evening,18,0,8.1,7.2,0,10/10/2023,28000,5
+10603,Zwickau,Tiguan,Logistics,Evening,23,0,8.5,15.5,1,6/24/2023,30000,2
+10604,Emden,Arteon,Logistics,Morning,25,0,7.5,10.9,0,5/3/2023,40000,4
+10605,Emden,Golf,Quality Control,Morning,23,3,6.9,1.9,0,8/15/2023,22000,1
+10606,Zwickau,Golf,Paint Shop,Night,14,0,7.5,0.9,0,10/28/2023,22000,7
+10607,Wolfsburg,ID.4,Quality Control,Morning,17,1,8.7,6.8,1,3/24/2023,35000,8
+10608,Hanover,Golf,Quality Control,Morning,14,0,5.8,2.4,0,9/10/2023,22000,5
+10609,Wolfsburg,Tiguan,Assembly,Night,27,1,10.5,3.2,0,5/26/2023,30000,2
+10610,Wolfsburg,Tiguan,R&D,Morning,16,0,8.9,5,0,4/30/2023,30000,8
+10611,Wolfsburg,Golf,Logistics,Evening,18,1,7.2,11.9,0,3/6/2023,22000,1
+10612,Dresden,Golf,Paint Shop,Night,22,0,9.2,2.7,1,10/8/2023,22000,7
+10613,Emden,ID.4,Logistics,Night,12,1,9.8,7.6,0,10/10/2023,35000,1
+10614,Wolfsburg,Golf,Logistics,Evening,18,3,7.5,1.6,1,4/16/2023,22000,6
+10615,Emden,ID.4,R&D,Morning,15,1,7.7,6,0,10/27/2023,35000,6
+10616,Zwickau,ID.4,Logistics,Night,18,0,10.2,0,0,4/17/2023,35000,5
+10617,Hanover,Golf,Logistics,Night,19,2,11.2,10.3,0,2/5/2023,22000,2
+10618,Zwickau,Passat,Quality Control,Evening,23,0,8,0.2,0,5/27/2023,28000,2
+10619,Zwickau,Passat,R&D,Evening,14,1,6.3,6.2,1,9/19/2023,28000,9
+10620,Dresden,ID.4,Assembly,Morning,17,1,7.3,0.2,0,6/8/2023,35000,5
+10621,Hanover,Golf,Paint Shop,Night,19,0,9.5,1.5,0,9/22/2023,22000,5
+10622,Zwickau,Passat,Logistics,Morning,20,0,6.5,3.4,1,7/21/2023,28000,7
+10623,Zwickau,Golf,Paint Shop,Morning,24,0,7.7,2.7,0,6/4/2023,22000,6
+10624,Hanover,Golf,Assembly,Evening,24,0,8.4,1.1,0,1/13/2023,22000,2
+10625,Hanover,Golf,Paint Shop,Night,22,1,6.6,2,0,10/24/2023,22000,1
+10626,Zwickau,Arteon,Assembly,Night,27,0,9.6,6.5,0,11/18/2023,40000,5
+10627,Hanover,Golf,Quality Control,Night,25,0,9,5.5,0,3/26/2023,22000,4
+10628,Zwickau,Arteon,Logistics,Evening,21,0,11,0.4,0,10/7/2023,40000,3
+10629,Zwickau,ID.4,Assembly,Evening,17,0,9.2,6.9,0,9/2/2023,35000,2
+10630,Dresden,Passat,Paint Shop,Evening,18,0,6.6,0.3,0,10/27/2023,28000,2
+10631,Wolfsburg,Passat,Logistics,Evening,22,1,8.8,3.9,0,12/28/2023,28000,4
+10632,Zwickau,Passat,Quality Control,Evening,16,0,9.5,1.5,1,12/20/2023,28000,2
+10633,Emden,Passat,Logistics,Night,11,1,9.6,4.4,0,11/12/2023,28000,4
+10634,Wolfsburg,Passat,Assembly,Morning,26,0,6.8,1.5,0,1/9/2023,28000,3
+10635,Wolfsburg,Passat,Quality Control,Night,12,0,6.7,21,0,9/4/2023,28000,9
+10636,Wolfsburg,Passat,Paint Shop,Morning,22,1,6.3,1.9,0,11/8/2023,28000,7
+10637,Dresden,ID.4,Quality Control,Evening,17,0,10.4,1.4,0,10/5/2023,35000,3
+10638,Zwickau,Golf,Quality Control,Morning,31,0,8.9,1.6,0,8/26/2023,22000,8
+10639,Dresden,Tiguan,R&D,Night,13,0,6.8,11.3,1,7/22/2023,30000,9
+10640,Zwickau,Arteon,Quality Control,Night,25,0,8.2,5.1,0,9/4/2023,40000,7
+10641,Dresden,Tiguan,Quality Control,Morning,22,0,7.8,6.6,0,8/23/2023,30000,6
+10642,Dresden,Tiguan,Logistics,Evening,21,0,6.5,12.5,0,3/22/2023,30000,4
+10643,Emden,Golf,Paint Shop,Evening,20,0,8.1,12.1,0,12/22/2023,22000,5
+10644,Dresden,Golf,Logistics,Night,28,0,8.3,6.7,0,1/13/2023,22000,8
+10645,Hanover,Golf,Logistics,Morning,20,0,10.9,1.1,1,11/23/2023,22000,3
+10646,Emden,Passat,Assembly,Evening,28,0,7,9.3,0,1/16/2023,28000,2
+10647,Dresden,ID.4,Logistics,Evening,17,0,5.4,1.1,1,2/14/2023,35000,3
+10648,Wolfsburg,Passat,R&D,Night,21,0,6.4,6.8,0,11/17/2023,28000,7
+10649,Hanover,ID.4,R&D,Evening,18,4,6.7,5.8,0,5/19/2023,35000,8
+10650,Hanover,ID.4,Assembly,Morning,18,0,7.4,7.1,0,11/22/2023,35000,1
+10651,Hanover,Tiguan,Paint Shop,Night,16,1,6.4,3.8,0,5/28/2023,30000,7
+10652,Emden,Tiguan,Paint Shop,Night,27,0,9.2,5.1,0,12/21/2023,30000,9
+10653,Dresden,ID.4,Logistics,Morning,11,2,6.3,15.3,0,8/24/2023,35000,3
+10654,Dresden,ID.4,Logistics,Night,20,0,8,0.5,0,7/10/2023,35000,3
+10655,Wolfsburg,Passat,Logistics,Evening,15,2,11,1.8,0,4/11/2023,28000,8
+10656,Wolfsburg,Passat,Paint Shop,Evening,19,1,8.8,4.7,0,4/15/2023,28000,4
+10657,Hanover,Tiguan,Quality Control,Morning,19,0,8.7,16.6,1,9/7/2023,30000,8
+10658,Wolfsburg,Golf,R&D,Evening,19,1,10.8,0.5,0,4/4/2023,22000,5
+10659,Emden,ID.4,Quality Control,Morning,20,0,9.9,0.1,0,8/8/2023,35000,3
+10660,Dresden,Passat,Quality Control,Morning,19,0,8.8,0.3,0,10/25/2023,28000,4
+10661,Hanover,Tiguan,Paint Shop,Evening,22,1,7.5,0.3,0,12/5/2023,30000,4
+10662,Wolfsburg,Passat,Quality Control,Morning,17,2,8,11.9,0,5/13/2023,28000,8
+10663,Emden,ID.4,Assembly,Evening,28,0,7.9,6.4,0,12/27/2023,35000,6
+10664,Emden,ID.4,Logistics,Night,23,0,7.4,5.7,0,6/4/2023,35000,7
+10665,Wolfsburg,Arteon,Assembly,Night,25,1,8.3,3.7,0,1/28/2023,40000,9
+10666,Dresden,Golf,R&D,Morning,21,1,8.5,7.6,0,10/9/2023,22000,6
+10667,Wolfsburg,Arteon,Logistics,Evening,26,1,6.1,0.8,0,4/26/2023,40000,3
+10668,Hanover,Tiguan,Quality Control,Evening,21,1,10.4,2.5,0,11/1/2023,30000,3
+10669,Wolfsburg,Passat,R&D,Night,17,0,8.6,3.4,0,8/22/2023,28000,3
+10670,Emden,Tiguan,Logistics,Night,26,2,7.6,0.6,0,1/1/2023,30000,2
+10671,Wolfsburg,ID.4,Quality Control,Evening,16,0,8.3,2.7,0,12/14/2023,35000,1
+10672,Dresden,Arteon,Assembly,Morning,17,0,9.4,1.9,0,8/28/2023,40000,1
+10673,Zwickau,Arteon,Logistics,Night,12,0,5.8,0.2,0,2/27/2023,40000,4
+10674,Wolfsburg,Arteon,Quality Control,Morning,23,0,7.8,0.7,0,12/1/2023,40000,3
+10675,Dresden,Tiguan,Assembly,Morning,13,0,6.2,7.2,0,7/2/2023,30000,5
+10676,Dresden,ID.4,R&D,Night,23,1,12,0.1,0,12/3/2023,35000,9
+10677,Emden,Passat,R&D,Morning,22,0,8.2,13.6,0,1/26/2023,28000,8
+10678,Dresden,Passat,R&D,Morning,19,0,6.2,0.5,0,3/18/2023,28000,9
+10679,Dresden,Tiguan,R&D,Evening,26,1,13.4,8,0,8/5/2023,30000,5
+10680,Dresden,Arteon,Paint Shop,Morning,22,0,7.2,11.4,0,11/24/2023,40000,8
+10681,Dresden,Golf,Logistics,Evening,20,0,7.7,14.2,0,11/21/2023,22000,4
+10682,Hanover,Tiguan,Logistics,Night,24,0,7.8,10.1,1,9/19/2023,30000,5
+10683,Hanover,Tiguan,Paint Shop,Night,21,2,6.7,1.7,0,1/23/2023,30000,3
+10684,Emden,ID.4,Quality Control,Evening,19,0,8.4,2,0,9/1/2023,35000,5
+10685,Wolfsburg,Passat,Quality Control,Night,17,0,4.7,2.8,0,6/7/2023,28000,3
+10686,Dresden,Tiguan,R&D,Morning,26,0,9.6,0.8,0,7/25/2023,30000,5
+10687,Wolfsburg,Tiguan,Assembly,Morning,30,0,6.3,0.1,0,11/6/2023,30000,5
+10688,Wolfsburg,Arteon,Quality Control,Morning,30,0,7.4,10.2,0,3/28/2023,40000,6
+10689,Emden,Arteon,Assembly,Night,20,0,9.1,4,0,9/24/2023,40000,9
+10690,Dresden,Golf,Logistics,Morning,19,0,7.7,4.7,1,5/14/2023,22000,1
+10691,Dresden,ID.4,Assembly,Night,16,2,7.8,13.1,1,9/24/2023,35000,6
+10692,Zwickau,Golf,Logistics,Morning,24,0,6.5,5.5,0,11/29/2023,22000,1
+10693,Wolfsburg,Arteon,Paint Shop,Evening,20,0,11.1,5.9,1,9/25/2023,40000,6
+10694,Wolfsburg,Passat,Paint Shop,Night,18,0,8.8,7.7,0,2/22/2023,28000,2
+10695,Hanover,Arteon,R&D,Night,22,0,6.4,0.6,0,4/9/2023,40000,8
+10696,Zwickau,ID.4,Quality Control,Morning,27,1,8.3,2.2,0,9/4/2023,35000,3
+10697,Hanover,Arteon,R&D,Night,17,0,6.3,17.2,0,2/5/2023,40000,6
+10698,Hanover,ID.4,Logistics,Night,14,0,10.6,12.8,0,1/28/2023,35000,6
+10699,Hanover,ID.4,R&D,Evening,20,1,8.3,10.8,1,8/8/2023,35000,4
+10700,Emden,ID.4,Assembly,Evening,14,0,6.5,3,0,4/12/2023,35000,5
+10701,Emden,ID.4,Logistics,Morning,20,0,9,9.7,0,9/20/2023,35000,2
+10702,Hanover,ID.4,Paint Shop,Evening,14,0,7.6,0.2,1,9/28/2023,35000,8
+10703,Zwickau,Passat,Quality Control,Morning,20,0,6.1,0.8,0,8/12/2023,28000,7
+10704,Wolfsburg,Golf,Logistics,Morning,21,0,8.6,2.7,0,5/19/2023,22000,6
+10705,Zwickau,Tiguan,Logistics,Morning,24,0,8.5,3.3,0,10/7/2023,30000,7
+10706,Dresden,Golf,Assembly,Night,21,0,9.7,1.5,0,10/13/2023,22000,1
+10707,Emden,ID.4,Quality Control,Evening,15,1,8.1,2.2,0,9/7/2023,35000,5
+10708,Wolfsburg,Passat,Paint Shop,Morning,25,0,8.2,0.9,0,11/18/2023,28000,7
+10709,Wolfsburg,Arteon,Logistics,Evening,19,0,8.2,3.4,0,11/13/2023,40000,1
+10710,Dresden,Passat,Logistics,Morning,14,0,10.4,7.9,1,3/19/2023,28000,2
+10711,Dresden,ID.4,Assembly,Evening,24,0,7.5,5.4,1,10/24/2023,35000,9
+10712,Hanover,Passat,R&D,Evening,16,0,8.7,0.6,0,12/4/2023,28000,3
+10713,Emden,Passat,Paint Shop,Morning,14,1,8.9,3.3,0,11/3/2023,28000,6
+10714,Emden,ID.4,Quality Control,Night,20,1,8.5,6,0,12/17/2023,35000,7
+10715,Zwickau,Passat,Logistics,Evening,20,2,7.5,3.8,1,1/13/2023,28000,9
+10716,Hanover,Tiguan,Logistics,Night,20,1,8.2,2.5,0,12/12/2023,30000,5
+10717,Hanover,Tiguan,Paint Shop,Night,24,0,7.9,4.9,0,3/23/2023,30000,4
+10718,Hanover,Passat,R&D,Morning,22,0,10.9,17.3,0,1/9/2023,28000,2
+10719,Hanover,Arteon,Logistics,Morning,20,0,7.3,0.5,1,8/1/2023,40000,3
+10720,Emden,ID.4,Paint Shop,Morning,25,0,6.6,2.5,0,2/17/2023,35000,5
+10721,Emden,Tiguan,Assembly,Evening,21,1,8,2.6,0,2/18/2023,30000,2
+10722,Hanover,Arteon,R&D,Morning,28,0,7.9,4.3,0,11/5/2023,40000,4
+10723,Zwickau,Passat,Quality Control,Morning,25,1,8.3,0.8,0,2/9/2023,28000,1
+10724,Wolfsburg,Arteon,Logistics,Evening,21,0,7.3,1,0,12/29/2023,40000,4
+10725,Wolfsburg,Golf,Paint Shop,Evening,22,1,8.2,1.7,0,10/7/2023,22000,7
+10726,Zwickau,Tiguan,Assembly,Morning,28,2,8.2,15.6,0,8/14/2023,30000,3
+10727,Hanover,Passat,Quality Control,Morning,20,1,9.4,6.6,0,4/18/2023,28000,8
+10728,Emden,ID.4,Paint Shop,Morning,23,1,8.1,5.4,0,9/2/2023,35000,6
+10729,Wolfsburg,Passat,Paint Shop,Morning,20,0,8.2,8.5,0,9/12/2023,28000,6
+10730,Dresden,ID.4,Quality Control,Night,18,1,8.8,0.7,0,2/2/2023,35000,1
+10731,Dresden,Passat,Assembly,Night,19,2,9.3,9.8,0,1/23/2023,28000,5
+10732,Zwickau,Arteon,Assembly,Morning,19,1,6.5,4.5,0,11/29/2023,40000,3
+10733,Hanover,Arteon,R&D,Night,21,1,6.1,2,0,2/23/2023,40000,1
+10734,Wolfsburg,Arteon,Logistics,Evening,23,1,10.5,8.5,0,11/5/2023,40000,8
+10735,Hanover,Golf,Quality Control,Night,13,1,9.1,8.1,0,2/18/2023,22000,7
+10736,Wolfsburg,ID.4,Quality Control,Night,21,0,7.7,9.3,0,3/19/2023,35000,7
+10737,Zwickau,Arteon,Quality Control,Morning,21,1,8,0.6,1,12/2/2023,40000,4
+10738,Zwickau,Golf,Assembly,Night,25,0,7.4,17.4,0,12/24/2023,22000,6
+10739,Dresden,ID.4,Logistics,Night,16,0,8.3,16,0,5/2/2023,35000,9
+10740,Hanover,Passat,R&D,Night,18,0,6.5,2.2,0,12/25/2023,28000,3
+10741,Dresden,Golf,Paint Shop,Night,21,0,9.3,0.3,0,3/31/2023,22000,9
+10742,Hanover,Tiguan,Paint Shop,Evening,23,0,8.3,0.9,1,12/12/2023,30000,4
+10743,Dresden,Golf,Quality Control,Morning,19,0,8.3,24.7,0,7/12/2023,22000,5
+10744,Emden,Golf,Logistics,Morning,23,0,6.7,4.1,0,9/1/2023,22000,7
+10745,Emden,ID.4,Assembly,Evening,21,0,8.8,2.2,0,5/29/2023,35000,6
+10746,Emden,Passat,Logistics,Night,26,0,6.7,1.7,0,5/26/2023,28000,8
+10747,Emden,Tiguan,Logistics,Evening,21,1,7,1.5,0,11/12/2023,30000,8
+10748,Wolfsburg,Arteon,Assembly,Night,10,2,8.1,5.5,1,5/21/2023,40000,8
+10749,Emden,Arteon,Quality Control,Evening,20,1,11.8,2.7,1,10/13/2023,40000,3
+10750,Zwickau,Golf,Logistics,Morning,26,3,8.3,16.8,0,12/5/2023,22000,6
+10751,Zwickau,ID.4,Paint Shop,Morning,20,1,4.1,5.8,0,4/21/2023,35000,7
+10752,Wolfsburg,ID.4,Assembly,Morning,17,0,7,7.9,0,4/18/2023,35000,9
+10753,Emden,Arteon,R&D,Night,25,1,9,1.7,0,10/8/2023,40000,4
+10754,Emden,Tiguan,Quality Control,Night,28,1,6.3,0.4,0,2/19/2023,30000,5
+10755,Emden,Passat,Assembly,Evening,17,0,9.2,3.3,0,1/14/2023,28000,8
+10756,Dresden,Tiguan,R&D,Evening,17,0,8.2,1.9,1,5/14/2023,30000,1
+10757,Hanover,Passat,R&D,Morning,21,1,9.5,1.1,0,3/17/2023,28000,6
+10758,Dresden,Arteon,Logistics,Night,21,0,7.2,15.3,0,3/25/2023,40000,4
+10759,Hanover,Passat,Logistics,Evening,23,1,7,2.9,1,12/9/2023,28000,5
+10760,Emden,ID.4,Logistics,Night,18,0,8.8,1,0,6/7/2023,35000,5
+10761,Emden,Golf,Assembly,Night,19,0,8,1.1,0,10/13/2023,22000,2
+10762,Dresden,Golf,Assembly,Morning,20,0,7.9,1.6,0,11/10/2023,22000,8
+10763,Dresden,Arteon,Quality Control,Morning,16,0,10.4,36.4,0,4/4/2023,40000,2
+10764,Hanover,ID.4,Logistics,Night,21,0,8.9,1.6,0,10/24/2023,35000,4
+10765,Zwickau,Tiguan,R&D,Night,13,1,5,2,0,4/4/2023,30000,5
+10766,Hanover,ID.4,Paint Shop,Night,19,1,9.2,5.4,0,2/26/2023,35000,1
+10767,Dresden,Golf,Quality Control,Night,24,1,9,1.7,0,6/13/2023,22000,6
+10768,Dresden,Golf,Assembly,Morning,22,0,9.8,1.2,1,11/16/2023,22000,2
+10769,Wolfsburg,ID.4,Quality Control,Evening,22,1,6.6,0.9,0,4/8/2023,35000,5
+10770,Dresden,ID.4,Quality Control,Morning,19,0,8.5,1.9,0,1/16/2023,35000,6
+10771,Wolfsburg,Golf,Quality Control,Evening,18,0,8.2,0.6,0,12/10/2023,22000,8
+10772,Zwickau,Tiguan,Quality Control,Night,14,0,6.6,0.1,0,3/19/2023,30000,9
+10773,Hanover,Arteon,Paint Shop,Evening,20,0,9.4,8.2,0,12/12/2023,40000,6
+10774,Hanover,Arteon,Logistics,Morning,25,0,7.6,0.7,0,3/13/2023,40000,5
+10775,Wolfsburg,ID.4,R&D,Morning,20,0,9.7,7.5,0,9/27/2023,35000,4
+10776,Hanover,Arteon,Quality Control,Night,15,1,6.9,8,0,10/14/2023,40000,2
+10777,Dresden,Golf,Quality Control,Morning,25,1,5.8,3.9,0,3/7/2023,22000,2
+10778,Emden,Golf,Quality Control,Night,18,0,7.6,1.9,0,3/9/2023,22000,7
+10779,Wolfsburg,ID.4,Logistics,Morning,21,0,8.3,0.8,0,7/12/2023,35000,5
+10780,Hanover,ID.4,Assembly,Morning,16,0,7.2,6.7,0,2/24/2023,35000,7
+10781,Wolfsburg,ID.4,Assembly,Night,12,0,3.4,4.6,0,6/17/2023,35000,1
+10782,Wolfsburg,Tiguan,Paint Shop,Evening,22,1,8.6,5.3,0,1/25/2023,30000,1
+10783,Emden,Arteon,Assembly,Morning,24,0,8.6,0,0,5/11/2023,40000,5
+10784,Dresden,ID.4,Quality Control,Evening,14,1,9,13.1,1,11/21/2023,35000,2
+10785,Wolfsburg,Passat,Quality Control,Morning,20,1,7.4,0.3,0,4/12/2023,28000,8
+10786,Hanover,Passat,Quality Control,Morning,25,0,7.3,2.3,0,10/9/2023,28000,3
+10787,Zwickau,Golf,Paint Shop,Morning,28,2,10.2,2.6,0,10/23/2023,22000,1
+10788,Wolfsburg,Arteon,Quality Control,Morning,17,0,5.6,0,1,10/21/2023,40000,2
+10789,Wolfsburg,ID.4,Assembly,Evening,23,0,7.6,3.4,0,9/20/2023,35000,7
+10790,Emden,Passat,Logistics,Evening,13,0,8.2,7,0,4/30/2023,28000,6
+10791,Dresden,Arteon,Logistics,Morning,25,0,8.9,8.7,0,8/19/2023,40000,8
+10792,Zwickau,Golf,R&D,Morning,20,0,8.3,10.6,0,10/18/2023,22000,7
+10793,Hanover,Tiguan,Assembly,Evening,15,0,6.6,3.3,0,6/10/2023,30000,8
+10794,Zwickau,Arteon,Quality Control,Night,21,1,9.8,5,1,6/10/2023,40000,3
+10795,Hanover,Arteon,Logistics,Night,14,1,8,0.4,0,3/19/2023,40000,6
+10796,Dresden,Tiguan,Assembly,Evening,15,1,5.5,3.3,0,2/7/2023,30000,7
+10797,Hanover,Arteon,Logistics,Morning,20,0,8.3,0.8,0,1/28/2023,40000,1
+10798,Emden,Golf,Quality Control,Morning,16,1,8.7,2.3,1,4/10/2023,22000,1
+10799,Emden,Golf,Logistics,Night,17,1,10.9,2,0,10/21/2023,22000,7
+10800,Emden,Tiguan,R&D,Night,23,1,8.6,2.8,0,5/4/2023,30000,3
+10801,Emden,ID.4,R&D,Evening,16,1,5.8,4.2,0,4/2/2023,35000,3
+10802,Zwickau,Passat,Logistics,Night,18,1,5.8,11.7,1,9/12/2023,28000,5
+10803,Dresden,ID.4,Assembly,Evening,24,0,9.9,2.5,1,4/7/2023,35000,6
+10804,Hanover,Arteon,Assembly,Night,18,1,6.8,19.9,0,1/6/2023,40000,2
+10805,Hanover,Passat,Assembly,Night,26,0,5.7,7.1,0,6/18/2023,28000,3
+10806,Emden,Tiguan,Logistics,Night,25,3,9.5,3.6,0,9/28/2023,30000,6
+10807,Emden,Tiguan,Assembly,Morning,11,0,7.3,5.2,1,4/18/2023,30000,3
+10808,Wolfsburg,Passat,Quality Control,Morning,22,0,9.4,0.5,0,10/26/2023,28000,5
+10809,Dresden,Golf,R&D,Morning,15,0,6.6,9.3,0,2/16/2023,22000,9
+10810,Zwickau,Passat,Quality Control,Night,19,1,10.2,4.4,0,4/9/2023,28000,3
+10811,Hanover,Arteon,Assembly,Evening,24,0,9.3,21.4,1,1/14/2023,40000,6
+10812,Wolfsburg,Golf,Quality Control,Evening,19,0,6.9,5.1,0,7/13/2023,22000,5
+10813,Wolfsburg,Tiguan,Assembly,Evening,14,2,5.5,9,0,6/6/2023,30000,5
+10814,Hanover,Passat,Logistics,Evening,25,2,11.5,8,1,6/3/2023,28000,6
+10815,Zwickau,ID.4,Quality Control,Morning,24,0,7.7,2.1,0,4/25/2023,35000,6
+10816,Wolfsburg,ID.4,Logistics,Morning,19,0,6.9,1.5,0,9/15/2023,35000,1
+10817,Wolfsburg,Arteon,Logistics,Night,23,1,10.1,2.8,1,5/25/2023,40000,9
+10818,Dresden,ID.4,Paint Shop,Night,29,1,9.4,3.1,1,10/18/2023,35000,5
+10819,Zwickau,Passat,Assembly,Evening,13,0,9.8,1.4,1,1/10/2023,28000,1
+10820,Wolfsburg,Passat,R&D,Morning,18,1,7.9,11.2,0,8/2/2023,28000,8
+10821,Zwickau,ID.4,Assembly,Evening,18,0,10.8,3.9,0,8/21/2023,35000,7
+10822,Hanover,Passat,R&D,Night,26,1,6,19.2,1,6/20/2023,28000,7
+10823,Emden,Arteon,Assembly,Night,26,1,7.2,8.3,0,1/21/2023,40000,5
+10824,Wolfsburg,Golf,Logistics,Evening,20,0,8.6,4.1,1,1/15/2023,22000,1
+10825,Dresden,Arteon,Quality Control,Night,20,0,9.8,14.7,1,5/6/2023,40000,9
+10826,Hanover,Arteon,Quality Control,Evening,22,1,9,3.5,0,12/7/2023,40000,9
+10827,Zwickau,Passat,Paint Shop,Morning,16,1,7.9,10.9,1,12/7/2023,28000,8
+10828,Hanover,Golf,R&D,Evening,15,0,7.3,2.2,0,8/1/2023,22000,5
+10829,Wolfsburg,Passat,R&D,Morning,19,1,9.8,2.4,0,7/7/2023,28000,3
+10830,Zwickau,Tiguan,R&D,Morning,15,1,9.1,2.7,0,6/21/2023,30000,8
+10831,Emden,Passat,Logistics,Night,15,0,6.7,4,0,9/4/2023,28000,1
+10832,Hanover,Passat,R&D,Night,17,1,6.6,4,0,1/5/2023,28000,3
+10833,Wolfsburg,Passat,Quality Control,Night,20,0,7.2,3.4,0,8/19/2023,28000,7
+10834,Dresden,Golf,Logistics,Evening,23,2,7,1.8,0,7/20/2023,22000,4
+10835,Zwickau,Passat,Assembly,Evening,25,0,9.5,13.1,1,5/29/2023,28000,7
+10836,Hanover,Golf,R&D,Night,24,0,8.7,4.4,1,3/13/2023,22000,5
+10837,Hanover,ID.4,R&D,Evening,20,0,8.8,2.6,0,8/14/2023,35000,6
+10838,Emden,Tiguan,Assembly,Night,23,1,8.3,5.3,0,3/15/2023,30000,7
+10839,Emden,Golf,R&D,Evening,17,1,8.4,7.3,0,11/3/2023,22000,7
+10840,Dresden,ID.4,Assembly,Morning,20,1,5.6,16.2,1,6/18/2023,35000,7
+10841,Dresden,Golf,Logistics,Morning,19,1,9.2,3.5,0,9/6/2023,22000,7
+10842,Wolfsburg,Golf,Quality Control,Night,22,0,7.2,0.6,0,10/7/2023,22000,7
+10843,Wolfsburg,Tiguan,Assembly,Evening,18,3,8,2.9,1,6/1/2023,30000,3
+10844,Dresden,Arteon,Paint Shop,Evening,16,0,7.3,3.3,0,8/12/2023,40000,3
+10845,Dresden,Arteon,Assembly,Morning,25,1,8.2,11.4,1,8/13/2023,40000,7
+10846,Zwickau,Golf,R&D,Morning,30,0,8.9,2.5,1,2/7/2023,22000,2
+10847,Emden,Passat,Logistics,Night,24,1,6.5,15.3,1,2/13/2023,28000,2
+10848,Wolfsburg,ID.4,Logistics,Morning,17,1,8.4,3.3,0,7/4/2023,35000,3
+10849,Emden,Passat,Assembly,Night,20,1,7.3,18.2,0,8/29/2023,28000,4
+10850,Emden,Passat,Quality Control,Morning,22,0,10,0,1,11/27/2023,28000,6
+10851,Dresden,Golf,Paint Shop,Morning,15,0,6.3,11.5,0,12/17/2023,22000,8
+10852,Zwickau,Golf,Logistics,Evening,20,0,6.5,13.4,0,7/29/2023,22000,7
+10853,Hanover,Golf,R&D,Morning,13,1,7.5,16.2,0,1/23/2023,22000,4
+10854,Zwickau,Golf,R&D,Morning,22,0,6.6,0.1,0,5/4/2023,22000,2
+10855,Zwickau,Arteon,Quality Control,Night,16,2,7.7,0.9,0,3/27/2023,40000,2
+10856,Emden,Golf,Logistics,Morning,19,0,7.2,5.3,0,2/12/2023,22000,4
+10857,Zwickau,Arteon,Assembly,Night,28,0,8.1,0.1,0,2/9/2023,40000,6
+10858,Wolfsburg,Arteon,R&D,Morning,18,1,9.5,0.3,0,10/30/2023,40000,3
+10859,Emden,Golf,Quality Control,Morning,16,0,8.1,1.2,0,6/18/2023,22000,6
+10860,Wolfsburg,Tiguan,Logistics,Night,22,2,8.2,3.6,0,6/24/2023,30000,5
+10861,Hanover,ID.4,Logistics,Evening,23,1,6.4,3.9,0,1/20/2023,35000,5
+10862,Emden,Passat,Logistics,Night,22,0,7.8,0.2,0,4/19/2023,28000,2
+10863,Hanover,Arteon,Logistics,Night,21,0,7.4,0.9,0,7/12/2023,40000,8
+10864,Emden,ID.4,Logistics,Night,14,0,9,3.5,0,9/1/2023,35000,5
+10865,Dresden,Tiguan,R&D,Evening,16,0,6.9,4.5,0,11/20/2023,30000,2
+10866,Zwickau,Passat,Quality Control,Morning,18,1,6.7,0.8,0,10/7/2023,28000,7
+10867,Dresden,Passat,Logistics,Night,26,0,8.5,2.5,0,8/16/2023,28000,9
+10868,Hanover,Arteon,Paint Shop,Night,22,0,11,11.7,0,2/5/2023,40000,9
+10869,Zwickau,Golf,Paint Shop,Evening,18,0,7.7,34.1,0,2/14/2023,22000,1
+10870,Emden,Tiguan,Quality Control,Night,12,0,8.3,21.8,0,1/28/2023,30000,7
+10871,Zwickau,Arteon,Assembly,Morning,21,0,9.4,10.7,1,6/3/2023,40000,9
+10872,Wolfsburg,Tiguan,Assembly,Evening,28,1,8.8,2.5,0,1/23/2023,30000,6
+10873,Zwickau,Golf,Assembly,Morning,24,1,8.8,5.8,1,7/26/2023,22000,1
+10874,Wolfsburg,Golf,Paint Shop,Morning,23,1,7.9,2.7,0,4/1/2023,22000,2
+10875,Zwickau,Arteon,Assembly,Evening,20,1,7.9,5.2,0,12/25/2023,40000,4
+10876,Wolfsburg,Golf,R&D,Night,19,0,6.9,1.9,0,2/7/2023,22000,4
+10877,Hanover,ID.4,Logistics,Morning,20,1,8.7,4.7,0,8/16/2023,35000,2
+10878,Dresden,Passat,Paint Shop,Morning,19,0,8.7,3.7,0,7/21/2023,28000,8
+10879,Emden,Arteon,Quality Control,Morning,17,0,9.1,0.1,0,12/16/2023,40000,2
+10880,Zwickau,Tiguan,Quality Control,Morning,24,0,7.3,7.8,0,11/5/2023,30000,3
+10881,Dresden,ID.4,Logistics,Evening,19,0,9.2,0.1,0,9/11/2023,35000,4
+10882,Emden,Arteon,Paint Shop,Evening,26,1,9.7,1.7,0,2/7/2023,40000,9
+10883,Emden,Golf,Assembly,Morning,15,0,6.2,0,0,8/9/2023,22000,1
+10884,Wolfsburg,Golf,Assembly,Night,25,1,7.6,2.4,1,7/6/2023,22000,8
+10885,Hanover,Golf,R&D,Morning,19,0,9.8,0.3,0,2/12/2023,22000,5
+10886,Hanover,Golf,R&D,Night,25,0,7,12.2,0,12/25/2023,22000,7
+10887,Dresden,Tiguan,Assembly,Morning,21,1,8.8,2.7,0,4/24/2023,30000,8
+10888,Hanover,ID.4,Quality Control,Night,20,0,8,3.1,0,9/17/2023,35000,5
+10889,Zwickau,Passat,Quality Control,Morning,34,0,8.5,2.2,0,1/5/2023,28000,8
+10890,Hanover,Tiguan,R&D,Night,18,0,8.1,4.9,0,3/9/2023,30000,8
+10891,Dresden,Tiguan,Logistics,Morning,18,1,9.1,7.7,0,8/16/2023,30000,9
+10892,Hanover,Passat,Assembly,Morning,19,1,6.5,5.2,1,5/3/2023,28000,2
+10893,Zwickau,Passat,R&D,Night,18,0,6.6,6.9,0,6/22/2023,28000,3
+10894,Wolfsburg,Golf,R&D,Evening,20,2,10.2,11.8,1,12/2/2023,22000,1
+10895,Dresden,Tiguan,Assembly,Night,31,1,11.2,10,1,6/2/2023,30000,4
+10896,Wolfsburg,Arteon,Assembly,Evening,24,1,8,5.6,1,9/24/2023,40000,5
+10897,Wolfsburg,Passat,Quality Control,Morning,10,1,10.6,1.2,0,6/6/2023,28000,1
+10898,Wolfsburg,Passat,Logistics,Night,15,0,6.8,5.1,0,6/11/2023,28000,8
+10899,Emden,ID.4,Logistics,Night,29,1,7.2,3.5,0,8/2/2023,35000,2
+10900,Emden,Arteon,Assembly,Night,17,0,10.2,6.3,0,1/26/2023,40000,1
+10901,Wolfsburg,Arteon,Paint Shop,Evening,13,0,9.2,8.9,0,10/19/2023,40000,2
+10902,Dresden,Passat,R&D,Evening,21,3,10.4,6.8,0,7/8/2023,28000,5
+10903,Zwickau,Golf,R&D,Morning,20,1,8.7,9.4,0,5/2/2023,22000,9
+10904,Zwickau,ID.4,Assembly,Evening,24,0,6.5,0.3,0,8/18/2023,35000,9
+10905,Hanover,Arteon,Paint Shop,Evening,29,0,8.3,0.2,0,2/28/2023,40000,2
+10906,Dresden,Passat,Quality Control,Morning,28,1,9.8,1.5,0,4/6/2023,28000,2
+10907,Emden,Arteon,Assembly,Night,21,0,7.8,11.5,0,9/19/2023,40000,3
+10908,Wolfsburg,ID.4,Assembly,Night,17,0,7.6,8.7,0,12/20/2023,35000,7
+10909,Hanover,ID.4,R&D,Morning,18,0,8.7,5.7,0,11/8/2023,35000,3
+10910,Zwickau,Tiguan,Assembly,Night,25,0,7.2,6,0,5/16/2023,30000,1
+10911,Emden,Passat,Assembly,Evening,21,1,8.4,6.5,0,12/16/2023,28000,6
+10912,Emden,ID.4,Assembly,Morning,18,0,8.1,14.3,0,10/10/2023,35000,3
+10913,Wolfsburg,Tiguan,R&D,Morning,23,1,7.3,8.9,0,4/30/2023,30000,1
+10914,Zwickau,Tiguan,Quality Control,Morning,11,0,9.5,4.9,0,1/25/2023,30000,4
+10915,Dresden,Arteon,Quality Control,Night,14,1,9,5.5,0,12/8/2023,40000,1
+10916,Emden,Arteon,Assembly,Morning,20,2,7.5,1.2,0,5/26/2023,40000,1
+10917,Wolfsburg,Tiguan,R&D,Morning,18,1,8,5.4,0,1/12/2023,30000,2
+10918,Dresden,Arteon,Quality Control,Morning,18,1,7.6,2.8,0,3/28/2023,40000,8
+10919,Zwickau,ID.4,Quality Control,Night,22,2,7,0.8,0,4/19/2023,35000,2
+10920,Emden,Golf,Quality Control,Evening,24,0,5.5,8.2,1,12/11/2023,22000,2
+10921,Dresden,ID.4,R&D,Morning,20,1,7.3,3.6,0,9/23/2023,35000,8
+10922,Dresden,Tiguan,R&D,Evening,23,1,7.1,19,1,8/10/2023,30000,6
+10923,Dresden,Tiguan,Assembly,Night,13,0,8.2,1.7,0,3/15/2023,30000,4
+10924,Emden,ID.4,Logistics,Night,14,0,8.7,3.3,0,11/29/2023,35000,3
+10925,Emden,Arteon,Quality Control,Night,25,2,6.8,3,0,11/6/2023,40000,1
+10926,Hanover,Arteon,Logistics,Night,17,1,8.6,0.6,0,4/12/2023,40000,3
+10927,Zwickau,Tiguan,R&D,Evening,17,0,6.6,2.8,0,5/17/2023,30000,9
+10928,Wolfsburg,Passat,R&D,Morning,22,0,7.8,1.7,0,7/10/2023,28000,5
+10929,Dresden,Arteon,R&D,Night,25,1,7.1,0.9,0,5/22/2023,40000,6
+10930,Hanover,ID.4,Logistics,Night,20,0,9.1,1.7,0,12/23/2023,35000,5
+10931,Wolfsburg,Arteon,R&D,Evening,18,1,8.2,1.3,0,3/14/2023,40000,1
+10932,Hanover,ID.4,Assembly,Evening,15,1,7.8,6.6,1,11/24/2023,35000,1
+10933,Emden,Tiguan,R&D,Night,16,1,7.1,0.2,0,6/16/2023,30000,4
+10934,Dresden,Arteon,Paint Shop,Morning,15,0,7.5,4.8,0,6/17/2023,40000,3
+10935,Wolfsburg,ID.4,Logistics,Morning,20,1,10.7,7.1,0,2/23/2023,35000,8
+10936,Wolfsburg,Tiguan,Paint Shop,Night,12,1,7.2,3.3,0,9/16/2023,30000,7
+10937,Wolfsburg,Passat,R&D,Evening,22,1,8.7,13.4,1,4/21/2023,28000,7
+10938,Wolfsburg,ID.4,Assembly,Night,16,0,7.8,6.2,1,8/20/2023,35000,8
+10939,Wolfsburg,Passat,Quality Control,Night,28,0,8.7,6.9,0,6/10/2023,28000,7
+10940,Hanover,Passat,R&D,Evening,18,2,9.3,1.1,0,12/18/2023,28000,2
+10941,Dresden,Golf,Assembly,Night,17,0,7.5,7.5,0,11/23/2023,22000,4
+10942,Emden,Arteon,Logistics,Night,23,0,9.1,8.9,0,1/19/2023,40000,6
+10943,Emden,ID.4,Paint Shop,Night,21,0,12.1,2.2,1,10/17/2023,35000,3
+10944,Emden,Passat,Paint Shop,Evening,20,1,8.9,1.2,0,2/19/2023,28000,3
+10945,Emden,Golf,Paint Shop,Morning,25,0,10.4,2.4,0,6/24/2023,22000,6
+10946,Hanover,Tiguan,Logistics,Morning,26,0,8.7,6.7,0,10/29/2023,30000,1
+10947,Zwickau,ID.4,Assembly,Evening,15,0,6.6,2.7,0,7/3/2023,35000,1
+10948,Dresden,Passat,Logistics,Morning,14,1,8.4,6.7,1,7/4/2023,28000,5
+10949,Wolfsburg,Arteon,Paint Shop,Night,14,0,7.5,0.6,0,12/5/2023,40000,1
+10950,Zwickau,Golf,R&D,Morning,23,0,7.1,8.2,0,11/3/2023,22000,8
+10951,Emden,Passat,Quality Control,Night,24,0,7.9,1.5,0,11/6/2023,28000,2
+10952,Zwickau,Arteon,Logistics,Morning,24,1,7.8,1.4,0,12/12/2023,40000,6
+10953,Dresden,Passat,Logistics,Evening,22,0,6.4,4.5,0,3/22/2023,28000,5
+10954,Wolfsburg,ID.4,Assembly,Morning,19,0,12.1,0.4,1,6/5/2023,35000,4
+10955,Wolfsburg,ID.4,Assembly,Morning,25,0,9.2,0.1,0,10/2/2023,35000,1
+10956,Dresden,ID.4,Logistics,Morning,20,2,8.4,1.5,0,10/10/2023,35000,3
+10957,Dresden,Golf,Paint Shop,Evening,17,1,8.1,3.9,0,9/6/2023,22000,4
+10958,Emden,ID.4,Quality Control,Morning,19,2,9.8,11.9,0,5/27/2023,35000,2
+10959,Wolfsburg,Arteon,Assembly,Evening,29,1,11.1,9.4,1,1/7/2023,40000,2
+10960,Zwickau,Passat,Paint Shop,Night,14,0,9,3.4,0,6/6/2023,28000,2
+10961,Hanover,Tiguan,R&D,Morning,20,1,8.2,0.2,0,6/20/2023,30000,1
+10962,Hanover,Arteon,Assembly,Evening,13,0,10.2,3.8,0,3/10/2023,40000,2
+10963,Dresden,Arteon,Paint Shop,Evening,17,0,8.2,6.1,0,4/4/2023,40000,6
+10964,Emden,ID.4,Paint Shop,Morning,23,0,8.7,2.1,0,12/29/2023,35000,3
+10965,Hanover,Golf,Quality Control,Night,20,0,9.5,0.6,0,7/5/2023,22000,5
+10966,Wolfsburg,Passat,Quality Control,Evening,19,2,7.4,1.6,0,6/19/2023,28000,1
+10967,Dresden,Golf,R&D,Morning,17,0,4.9,7.4,0,7/23/2023,22000,8
+10968,Zwickau,Passat,Paint Shop,Night,18,1,7.3,2.2,0,2/11/2023,28000,4
+10969,Dresden,Passat,Paint Shop,Evening,19,0,9.2,8.4,1,1/13/2023,28000,9
+10970,Zwickau,Golf,Quality Control,Evening,23,0,9.1,1.9,0,6/3/2023,22000,4
+10971,Dresden,Arteon,Assembly,Night,22,1,10,0.9,0,10/1/2023,40000,2
+10972,Dresden,Passat,Assembly,Night,16,1,7.4,2.9,0,10/25/2023,28000,3
+10973,Dresden,Golf,Logistics,Morning,16,1,10.4,3,0,2/20/2023,22000,5
+10974,Zwickau,Passat,Quality Control,Morning,26,0,8.3,0.1,0,7/31/2023,28000,6
+10975,Zwickau,Tiguan,Logistics,Evening,27,0,8.9,0.6,0,5/24/2023,30000,7
+10976,Dresden,Arteon,Quality Control,Night,10,1,9.4,1,0,12/23/2023,40000,4
+10977,Hanover,ID.4,R&D,Night,21,1,5.9,0.6,0,1/3/2023,35000,7
+10978,Emden,Passat,Paint Shop,Night,19,0,6.5,2.1,0,9/11/2023,28000,3
+10979,Emden,Tiguan,R&D,Evening,19,2,6.4,16.7,0,12/1/2023,30000,7
+10980,Emden,ID.4,Quality Control,Night,20,1,9.6,3.6,0,9/13/2023,35000,4
+10981,Zwickau,ID.4,Paint Shop,Night,15,1,7.5,4.9,0,4/8/2023,35000,8
+10982,Zwickau,Passat,Assembly,Evening,23,1,11,2.2,0,6/22/2023,28000,9
+10983,Hanover,Golf,Assembly,Morning,14,1,8,2,0,5/30/2023,22000,7
+10984,Emden,Passat,Logistics,Morning,10,0,5.8,0.1,1,10/6/2023,28000,8
+10985,Emden,Tiguan,Quality Control,Evening,21,0,7,3.5,1,2/28/2023,30000,8
+10986,Dresden,ID.4,Quality Control,Night,19,1,8.2,3.3,0,4/23/2023,35000,2
+10987,Zwickau,Passat,Assembly,Evening,17,0,8.8,0.9,0,11/20/2023,28000,9
+10988,Emden,Golf,R&D,Morning,17,0,6.5,7.2,0,8/31/2023,22000,6
+10989,Hanover,Passat,Paint Shop,Morning,22,0,8.9,3.4,0,11/6/2023,28000,4
+10990,Hanover,Arteon,R&D,Evening,24,0,9.3,2.1,1,2/26/2023,40000,5
+10991,Emden,Golf,R&D,Evening,24,2,7,0.8,0,3/1/2023,22000,5
+10992,Zwickau,Tiguan,Assembly,Morning,25,1,11,4,0,11/25/2023,30000,7
+10993,Hanover,ID.4,Assembly,Evening,26,0,7.2,7,0,8/4/2023,35000,9
+10994,Dresden,Passat,Assembly,Morning,17,0,6.5,1.7,0,8/21/2023,28000,7
+10995,Hanover,Golf,Logistics,Evening,16,1,5.7,1.2,0,2/24/2023,22000,9
+10996,Wolfsburg,Arteon,R&D,Evening,21,1,9.8,3.7,0,7/27/2023,40000,4
+10997,Wolfsburg,Golf,Quality Control,Evening,20,2,8,0.8,0,3/4/2023,22000,4
+10998,Zwickau,Arteon,Paint Shop,Morning,17,0,7.3,5.5,0,7/3/2023,40000,6
+10999,Emden,Tiguan,Logistics,Evening,19,0,5.8,4.6,0,11/7/2023,30000,8
