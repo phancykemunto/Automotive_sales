@@ -70,6 +70,11 @@ Supports shift optimization and staffing decisions.
 
 - Insightful for training and talent management strategies.
 
+🛠️ Defects by Shift
+This bar chart displays the total number of product defects recorded for each production shift. It helps identify which shift may be associated with higher defect rates—an important insight for quality control and resource planning.
+
+![defects by shift](defects.png)
+
 📦 Tools Used
 - Python: Data analysis and visualization
 
